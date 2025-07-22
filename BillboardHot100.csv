@@ -1,0 +1,101 @@
+top,track_name,track_popularity,duration_ms,artist_name,artist_genres,artist_popularity,feats,explicit,album,type,relase_date,track_id,artist_id
+1,Ordinary,96,186964,Alex Warren,,90,,False,Ordinary,single,2025-02-07,6qqrTXSdwiJaq8SO0X2lSe,0fTSzq9jAh4c36UVb4V7CB
+2,What I Want (feat. Tate McRae),75,184517,Morgan Wallen,country,95,Tate McRae,False,I’m The Problem,album,2025-05-16,48NthgcgfoRrWT8LtgW28A,4oUHIQIBe0LHzYfvXNW4QM
+3,Just In Case,83,166206,Morgan Wallen,country,95,,False,Just In Case,single,2025-03-21,02Ya2Q08bBKFqUJvjmyRXK,4oUHIQIBe0LHzYfvXNW4QM
+4,A Bar Song (Tipsy),88,171291,Shaboozey,,82,,True,A Bar Song (Tipsy),single,2024-04-12,2FQrifJ1N335Ljm3TjTVVf,3y2cIKLjiOlp1Np37WiUdH
+5,I'm The Problem,79,177811,Morgan Wallen,country,95,,False,I'm The Problem,single,2025-01-31,3HlWVKwU0JqJXqJK9DWHnZ,4oUHIQIBe0LHzYfvXNW4QM
+6,luther (with sza),89,177598,Kendrick Lamar,hip hop|west coast hip hop,95,SZA,False,GNX,album,2024-11-22,45J4avUb9Ni0bnETYaYFVJ,2YZyLoL8N0Wb9xBt1NhZWg
+7,Manchild,98,213645,Sabrina Carpenter,,92,,True,Manchild,single,2025-06-05,42UBPzRMh5yyz0EDPr6fr1,74KM79TiuVKeVCqs8QtB0B
+8,Lose Control,84,210688,Teddy Swims,,88,,False,Lose Control,single,2023-06-23,6usohdchdzW9oML7VC4Uhk,33qOK5uJ8AR2xuQQAhHump
+9,Die With A Smile,97,251667,Lady Gaga,art pop|pop,93,Bruno Mars,False,Die With A Smile,single,2024-08-16,2plbrEY59IikOBgBGLjaoe,1HY2Jd0NmPuamShAr6KMms
+10,Pink Pony Club,90,258034,Chappell Roan,,86,,False,The Rise and Fall of a Midwest Princess,album,2023-09-22,1k2pQc5i348DCHwbn5KTdc,7GlBOeep6PqTfFi59PTUUN
+11,Beautiful Things,88,180304,Benson Boone,,89,,False,Beautiful Things,single,2024-01-18,6tNQ70jh4OwmPGpYy6R2o9,22wbnEMDvgVIAGdFeek6ET
+12,Love Me Not,90,213466,Ravyn Lenae,alternative r&b|indie soul,81,,False,Love Me Not / Love Is Blind,single,2024-05-03,1UNEuG9DYOWiikf00ayr52,5RTLRtXjbXI2lSXc6jxlAz
+13,I Had Some Help (Feat. Morgan Wallen),86,178205,Post Malone,,90,Morgan Wallen,True,I Had Some Help,single,2024-05-10,7221xIgOnuakPdLqT0F3nP,246dkjvS1zLTtiykXe5h60
+14,MUTT,80,193333,Leon Thomas,,78,,True,MUTT,single,2024-08-09,1mh9eHVRdNhzryG43PXdW1,0nnBZ8FXWjG9wZgM2cpfeb
+15,BIRDS OF A FEATHER,99,210373,Billie Eilish,,95,,False,HIT ME HARD AND SOFT,album,2024-05-17,6dOtVTDdiauQNBQEDOtlAB,6qqNVTkY8uBg9cP3Jd7DAH
+16,Espresso,90,175459,Sabrina Carpenter,,92,,True,Espresso,single,2024-04-12,2qSkIjg1o9h3YT9RAgYN75,74KM79TiuVKeVCqs8QtB0B
+17,Mystical Magical,90,165746,Benson Boone,,89,,False,Mystical Magical,single,2025-04-24,221eHga9f9Ne4f8D7WVgPT,22wbnEMDvgVIAGdFeek6ET
+18,weren't for the wind,79,193666,Ella Langley,country,78,,False,weren't for the wind,single,2024-10-04,4v9alNvEjLjvqo4LNWwswl,6BRxQ8cD3eqnrVj6WKDok8
+19,All The Way (feat. Bailey Zimmerman),87,165000,BigXthaPlug,southern hip hop,84,Bailey Zimmerman,True,All The Way (feat. Bailey Zimmerman),single,2025-04-04,73kIKvg65QWieOKXIwyLJP,6qxpnaukVayrQn6ViNvu9I
+20,NOKIA,92,241023,Drake,rap,99,,True,$ome $exy $ongs 4 U,album,2025-02-14,2u9S9JJ6hTZS3Vf22HOZKg,3TVXtAsR1Inumwj472S9r4
+21,I Got Better,62,204963,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,4GBNnoGf1FgsPtsgghZ381,4oUHIQIBe0LHzYfvXNW4QM
+22,Sorry I'm Here For Someone Else,86,156582,Benson Boone,,89,,False,Sorry I'm Here For Someone Else,single,2025-02-27,3x3K1RP3Zfi2qeMR8kyrNO,22wbnEMDvgVIAGdFeek6ET
+23,Golden,99,194607,HUNTR/X,k-pop,88,EJAE|AUDREY NUNA|REI AMI|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,1CPZ5BxNNd0n0nF4Orb9JS,2yNNYQBChuox9A5Ka93BIn
+24,Blue Strips,88,147209,Jessie Murph,,82,,False,Blue Strips,single,2025-04-11,7u7IqryLFAygWFz6bsEB7y,2yLzlEFtIS0Q9UkyBZdQA7
+25,Anxiety,89,249302,Doechii,,83,,True,Anxiety,single,2025-03-05,1musbempyJAw5gfSKZHXP9,4E2rKHVDssGJm2SCDOMMJB
+26,Outside,81,206711,Cardi B,,82,,True,Outside,single,2025-06-20,139nLHDFZNr3anx8CpUy7u,4kYSro6naA4h99UJvo89HB
+27,APT.,94,169917,ROSÉ,k-pop,85,Bruno Mars,False,APT.,single,2024-10-18,5vNRhkKd0yEAg8suGBpjeY,3eVa5w3URK5duf6eyVDbu9
+28,Worst Way,76,220558,Riley Green,country,80,,False,Worst Way,single,2024-03-29,4u2pk0zATUkEeMtuuMtu46,2QMsj4XJ7ne2hojxt6v5eb
+29,Good News,79,199209,Shaboozey,,82,,False,Good News,single,2024-11-15,54p6vNJwGkt4FTaM8SCsxt,3y2cIKLjiOlp1Np37WiUdH
+30,Love Somebody,83,204828,Morgan Wallen,country,95,,False,Love Somebody,single,2024-10-18,7hR22TOX3RorxJPcsz5Wbo,4oUHIQIBe0LHzYfvXNW4QM
+31,Your Idol,97,191537,Saja Boys,k-pop,84,Andrew Choi|Neckwav|Danny Chung|KEVIN WOO|samUIL Lee|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,1I37Zz2g3hk9eWxaNkj031,0BJ2EjOqcfgFvlZXNKrNbE
+32,30 For 30 (with Kendrick Lamar),84,278277,SZA,r&b,92,Kendrick Lamar,True,SOS Deluxe: LANA,album,2024-12-20,3aSWXU6owkZeVhh94XxEWO,7tYKF4w9nC0nq9CsPZTHyP
+33,undressed,96,182088,sombr,,88,,False,undressed,single,2025-03-21,4AajxCEwGEsmHmT4H1TwjY,4G9NDjRyZFDlJKMRL8hx3S
+34,back to friends,100,199032,sombr,,88,,False,back to friends,single,2024-12-27,0FTmksd2dxiE5e3rWyJXs6,4G9NDjRyZFDlJKMRL8hx3S
+35,Backup Plan (feat. Luke Combs),83,181518,Bailey Zimmerman,country,81,Luke Combs,False,Backup Plan (feat. Luke Combs),single,2025-05-02,58is1MxJ0mafkdwalyYanU,3win9vGIxFfBRag9S63wwf
+36,That’s So True,95,166300,Gracie Abrams,,87,,True,The Secret of Us (Deluxe),album,2024-10-18,7ne4VBA60CxGM75vw0EYad,4tuJ0bMpJh08umKkEXKUI5
+37,20 Cigarettes,60,160901,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,2fKPqAXWZmXcWiEVxqIuFD,4oUHIQIBe0LHzYfvXNW4QM
+38,Timeless (feat. Playboi Carti),47,256000,The Weeknd,,97,Playboi Carti,True,Timeless,single,2024-09-27,1Es7AUAhQvapIcoh3qMKDL,1Xyo4u8uXC1ZmMpatF05PJ
+39,Burning Blue,82,205724,Mariah the Scientist,alternative r&b,73,,False,Burning Blue,single,2025-05-02,0aWHb6ujnlXkmmOI1ltStc,7HO5fOXE4gh3lzZn64tX2E
+40,6 Months Later,84,182868,Megan Moroney,country,80,,False,6 Months Later,single,2025-06-20,4Km9FSF9iaQiTLnFPdbPom,5Ppie0uPnbnvGBYRwYmlt0
+41,Messy,90,284068,Lola Young,,82,,True,Messy,single,2024-05-30,3SKH53SPQbEnZR4cJPVaz2,67FB4n52MgexGQIG8s0yUH
+42,How It’s Done,96,176059,HUNTR/X,k-pop,88,EJAE|AUDREY NUNA|REI AMI|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,3RXUgPNIbUgFxsDWuBQEt6,2yNNYQBChuox9A5Ka93BIn
+43,The Giver,82,202768,Chappell Roan,,86,,False,The Giver,single,2025-03-13,5xHgo5JN0wfsV41HnRaos5,7GlBOeep6PqTfFi59PTUUN
+44,Shake It To The Max (FLY) - Remix,94,178775,MOLIY,alté,82,Silent Addy|Skillibeng|Shenseea,True,Shake It To The Max (FLY) (Remix),single,2025-02-21,0QCIpQV3twfqo9kh0t8Zza,2hVWBpjLW4Q7fboYz2pVYK
+45,After All The Bars Are Closed,76,191839,Thomas Rhett,country|acoustic country|pop country,79,,False,After All The Bars Are Closed,single,2024-08-09,0oBbkZuDLkT8DY9DK67kfr,6x2LnllRG5uGarZMsD4iO8
+46,Just Keep Watching (From F1® The Movie),95,142550,Tate McRae,,91,F1 The Album,False,Just Keep Watching (From F1® The Movie),single,2025-05-30,2yWlGEgEfPot0lv3OAjuG3,45dkTj5sMRSjrmBSBeiHym
+47,I Ain't Comin' Back (feat. Post Malone),79,175271,Morgan Wallen,country,95,Post Malone,False,I Ain't Comin' Back,single,2025-04-18,5ceKWhT3J34xxw5uzIzgU9,4oUHIQIBe0LHzYfvXNW4QM
+48,Sports car,84,165045,Tate McRae,,91,,False,Sports car,single,2025-01-24,2zOmS55knKWSgScYPTNmGQ,45dkTj5sMRSjrmBSBeiHym
+49,Soda Pop,96,150686,Saja Boys,k-pop,84,Andrew Choi|Neckwav|Danny Chung|KEVIN WOO|samUIL Lee|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,02sy7FAs8dkDNYsHp4Ul3f,0BJ2EjOqcfgFvlZXNKrNbE
+50,No One Noticed,93,236906,The Marías,bedroom pop,86,,False,Submarine,album,2024-05-31,3siwsiaEoU4Kuuc9WKMUy5,2sSGPbdZJkaSE2AbcGOACx
+51,WILDFLOWER,95,261466,Billie Eilish,,95,,False,HIT ME HARD AND SOFT,album,2024-05-17,3QaPy1KgI7nu9FJEQUgn6h,6qqNVTkY8uBg9cP3Jd7DAH
+52,Superman,57,188200,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,3JlQPeTJDdxR6yYfus8trX,4oUHIQIBe0LHzYfvXNW4QM
+53,Happen To Me,81,183615,Russell Dickerson,country,70,,False,Happen To Me,single,2025-02-21,64KV9vjChfN2w9vA4j7A2K,1E2AEtxaFaJtH0lO7kgNKw
+54,SOMEBODY LOVES ME,82,182767,PARTYNEXTDOOR,dark r&b|r&b|trap soul,87,Drake,True,$ome $exy $ongs 4 U,album,2025-02-14,2kZoOj1n5vk9BuF0sih58M,2HPaUgqeutzr3jx5a9WyDV
+55,What It Sounds Like,95,250268,HUNTR/X,k-pop,88,EJAE|AUDREY NUNA|REI AMI|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,5sBDrrtLGbV64QJnEqfjer,2yNNYQBChuox9A5Ka93BIn
+56,Amen,77,197403,Shaboozey,,82,Jelly Roll,False,"Where I've Been, Isn't Where I'm Going: The Complete Edition",album,2025-04-25,2iSfSJrho5XkU2NmAnZ9ZV,3y2cIKLjiOlp1Np37WiUdH
+57,Azizam,93,162029,Ed Sheeran,soft pop,92,,False,Azizam,single,2025-04-04,0GRc3eGTg8HBdWLRGYgqIc,6eUKZXaKkcviH0Ku9w2n3V
+58,Free,95,187963,Rumi,,77,Jinu|EJAE|Andrew Choi|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,5DxDLsW6PsLz5gkwC7Mk5S,2DSE0PhxKUmTPLfZm13sup
+59,TN,70,185138,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,5wrvpATTwLAdxI9xNtezNM,4oUHIQIBe0LHzYfvXNW4QM
+60,On My Mind,87,189557,Alex Warren,,90,ROSÉ,False,On My Mind,single,2025-06-27,1tMRh8jiYlmatpVeWWesCe,0fTSzq9jAh4c36UVb4V7CB
+61,Indigo (feat. Avery Anna),87,286634,Sam Barber,country,78,Avery Anna,False,Restless Mind,album,2024-11-01,1KZG1H1OCugGqIRmk1wF9m,08GfvCW09pv2QP4y9sle2a
+62,WHIM WHAMIEE,77,141538,PLUTO,,66,YKNIECE,True,WHIM WHAMIEE,single,2025-02-03,4eULTkHVLAhn5J5DOSNbdP,4uqHgaeBynLBQgfhMEIm1G
+63,Dark Thoughts,87,136991,Lil Tecca,melodic rap|rap,86,,True,Dark Thoughts,single,2025-03-14,7EW7Yivb93qKAtp5qEm5of,4Ga1P7PMIsmqEZqhYZQgDo
+64,Takedown,94,182016,HUNTR/X,k-pop,88,EJAE|AUDREY NUNA|REI AMI|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,0MHStU0muAIEMbwdnebYu2,2yNNYQBChuox9A5Ka93BIn
+65,Hard Fought Hallelujah (with Jelly Roll),72,316002,Brandon Lake,worship|christian,77,Jelly Roll,False,Hard Fought Hallelujah (with Jelly Roll),single,2025-02-07,4cLC8gydI0O78g8chZugS4,1bdnGJxkbIIys5Jhk1T74v
+66,House Again,83,203822,Hudson Westbrook,country,74,,False,House Again,single,2024-10-18,16MeIVoFWTq2E0r6DwIek5,0C4gtx1iHMfuaQ73GKWvtZ
+67,Fix What You Didn't Break,70,201555,Nate Smith,country,73,,False,Fix What You Didn't Break,single,2024-08-23,0GJ8peTqHq9pu5Yf2vHjjX,4NYMUsIcUUsBHbV9DICa5x
+68,party 4 u,92,296653,Charli xcx,hyperpop|art pop,88,,False,how i'm feeling now,album,2020-05-15,2RdEC8Ff83WkX7kDVCHseE,25uiPmTg16RbhZWAqwLBy5
+69,YOUR WAY'S BETTER,76,198082,Forrest Frank,christian pop|christian hip hop|christian|worship|gospel r&b,80,,False,YOUR WAY'S BETTER,single,2024-10-25,4qrbjoNP9NZwe79Rg9IlFU,1scVfBymTr3CeZ4imMj1QJ
+70,Typa,75,124137,GloRilla,,83,,True,Typa,single,2025-06-06,08L2vgqPpiLt7PpwMHbbk1,2qoQgPAilErOKCwE2Y8wOG
+71,TU SANCHO,93,177994,Fuerza Regida,corrido|corridos tumbados|corridos bélicos|música mexicana|sierreño|banda|electro corridos|sad sierreño|dembow belico,94,,True,111XPANTIA,album,2025-05-02,6eLQXa6uk2EW8drsiKbABZ,0ys2OFYzWYB5hRDLCsBqxt
+72,I'm A Little Crazy,74,199060,Morgan Wallen,country,95,,False,I'm A Little Crazy,single,2025-03-21,7igCS2ZsfV7bvxuhF4XgiQ,4oUHIQIBe0LHzYfvXNW4QM
+73,RATHER LIE (with The Weeknd),85,209680,Playboi Carti,rage rap,90,The Weeknd,True,MUSIC,album,2025-03-14,68qeaZhtMZ6abrJCYt6nQn,699OTQXzgjhIYAHMy9RyPD
+74,Bottle Rockets (feat. Hootie & The Blowfish),73,235773,Scotty McCreery,country|acoustic country,66,Hootie & The Blowfish,False,Bottle Rockets (feat. Hootie & The Blowfish),single,2025-05-15,5Xl87hTgoBbSnEXKNse77Q,6ZV6lGY0prbqpTD0Md8i29
+75,Marlboro Rojo,92,184173,Fuerza Regida,corrido|corridos tumbados|corridos bélicos|música mexicana|sierreño|banda|electro corridos|sad sierreño|dembow belico,94,,True,111XPANTIA,album,2025-05-02,3hpm0fTeSqlhJbnqAgaLZs,0ys2OFYzWYB5hRDLCsBqxt
+76,Bloodline (with Jelly Roll),91,182008,Alex Warren,,90,Jelly Roll,False,Bloodline (with Jelly Roll),single,2025-05-22,0qmhTHMVxnXRmT5N92wTD9,0fTSzq9jAh4c36UVb4V7CB
+77,Home (feat. Shaboozey),78,135133,BigXthaPlug,southern hip hop,84,Shaboozey,True,Home (feat. Shaboozey),single,2025-06-27,7LaLY7dkzWEtmtJ8o7oD05,6qxpnaukVayrQn6ViNvu9I
+78,peekaboo (feat. azchike),83,155917,Kendrick Lamar,hip hop|west coast hip hop,95,AZ Chike,True,GNX,album,2024-11-22,2Uts1QFB4u2YNIMiqcb4de,2YZyLoL8N0Wb9xBt1NhZWg
+79,Dark Til Daylight,67,235566,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,0DlaIUTa0Ng1hOM1wcFcZe,4oUHIQIBe0LHzYfvXNW4QM
+80,LATINA FOREVA,85,159522,KAROL G,reggaeton|latin|urbano latino,94,,True,Tropicoqueta,album,2025-06-20,2KrQbq3aqGOFGnkTKnN2XA,790FomKkXshlbRYZFtlgla
+81,Folded,87,238120,Kehlani,,80,,False,Folded,single,2025-06-11,0bxPRWprUVpQK0UFcddkrA,0cGUm45nv7Z6M6qdXYQGTX
+82,FWU,85,171000,Don Toliver,,89,Mustard,True,FWU,single,2025-06-27,1NpHJ96ljWvqdbjlyc9GtT,4Gso3d4CscCijv0lmajZWs
+83,twilight zone,78,198320,Ariana Grande,pop,93,,False,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,1UrwJzlNC2oaTlxj1OZmcu,66CXWjxzNUsdJxJ2JdwvnR
+84,OWA OWA,84,132380,Lil Tecca,melodic rap|rap,86,,True,OWA OWA,single,2025-05-30,5E3XPRJVgYnxhMAFI7nZ7N,4Ga1P7PMIsmqEZqhYZQgDo
+85,What Was That,83,209286,Lorde,,87,,False,Virgin,album,2025-06-27,7hGCCQkdyF1MX6uk339uBS,163tK9Wjr9P9DmM0AVK7lm
+86,Single Again,63,179050,Josh Ross,country,68,,False,Single Again,single,2024-01-12,2fKAG7MnnFDrQERDAzSztc,1ZGTSMjK1D2HrpPTOh916U
+87,Gabriela,93,197226,KATSEYE,k-pop,85,,False,Gabriela,single,2025-06-20,1xOqGUkyxGQRdCvGpvWKmL,3c0gDdb9lhnHGFtP4prQpn
+88,EoO,93,204768,Bad Bunny,reggaeton|trap latino|urbano latino|latin,100,,True,DeBÍ TiRAR MáS FOToS,album,2025-01-05,6J5kc12BW5HuP3d7C3vvx8,4q3ewBCX7sLwd24euuV69X
+89,WENT WEST,78,156083,BabyChiefDoit,chicago drill,71,,True,WENT WEST,single,2025-06-27,4QBxmb7GTU73cz9asr88Hj,1J1pGfTqp5ReVIX8Z1Wzsg
+90,Nice To Meet You,82,176000,Myles Smith,,80,,False,A Minute...,single,2024-11-08,726SEjbF3ToEbYbn43gnxl,3bO19AOone0ubCsfDXDtYt
+91,Bodies (with JID),74,178708,Offset,,80,JID,True,Bodies (with JID),single,2025-06-20,2PcZiMr9bRNtRikrN7s6bL,4DdkRBBYG6Yk9Ka8tdJ9BW
+92,This Heart,64,186973,Corey Kent,country|texas country,66,,False,This Heart,single,2024-01-26,1KtQmheytoTI6kOM8yCowf,3sUpZrkehiGBaMzs2h9Mmc
+93,Thought It Was Love,82,246141,Ty Myers,country,73,,False,The Select,album,2025-01-24,4fVoX6BG2jFhPx6uHKevpF,1Gh0pCAxpjw0Iq3JMoVAwO
+94,Touch Me Like a Gangster,82,163930,Jessie Murph,,82,,True,Touch Me Like a Gangster,single,2025-06-06,6fYcQVXEuqmyS3HqSZ6rTd,2yLzlEFtIS0Q9UkyBZdQA7
+95,Went Legit,75,140487,G Herbo,chicago drill|drill,73,,True,Greatest Rapper Alive,album,2025-04-09,4IlbjcbLvNQEzmCI2eXVLP,5QdEbQJ3ylBnc3gsIASAT5
+96,Gnarly,91,137316,KATSEYE,k-pop,85,,True,Gnarly,single,2025-04-30,1j15Ar0qGDzIR0v3CQv3JL,3c0gDdb9lhnHGFtP4prQpn
+97,ME JALO,90,212002,Fuerza Regida,corrido|corridos tumbados|corridos bélicos|música mexicana|sierreño|banda|electro corridos|sad sierreño|dembow belico,94,Grupo Frontera,True,MALA MÍA,single,2024-12-19,3D24ErT1MMmUfXWotSj2A2,0ys2OFYzWYB5hRDLCsBqxt
+98,Better Me For You (Brown Eyes),84,194120,Max McNown,,76,,False,Night Diving,album,2025-01-24,4Iu73sdCNxZXZUIyClMoPZ,340PS4ZcZ4UCBgyrXzEjcp
+99,Bar None,77,173064,Jordan Davis,country,76,,False,Bar None,single,2025-03-28,212xtcXoSqbbwFAYd0zvNP,77kULmXAQ6vWer7IIHdGzI
+100,Eyes Are Closed,57,197188,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,6Yjm10YPDiYGD3R3Qwoe13,4oUHIQIBe0LHzYfvXNW4QM
