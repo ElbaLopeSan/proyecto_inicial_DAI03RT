@@ -1,375 +1,101 @@
-top,track_name,track_popularity,duration_ms,artist_name,artist_genres,artist_popularity,feats,explicit,album,type,relase_date,track_id,artist_id,list
-1,no tiene sentido,93,158036,Beéle,latin afrobeats|reggaeton|pop urbano,93,,False,BORONDO,album,2025-05-15,1HEwEN64NjgTaHmo7LfkX8,7a0XAaPaK2aDSqa8p3QnC7,Los 40 Principales
-2,Ordinary,96,186964,Alex Warren,,90,,False,Ordinary,single,2025-02-07,6qqrTXSdwiJaq8SO0X2lSe,0fTSzq9jAh4c36UVb4V7CB,Los 40 Principales
-3,6 DE FEBRERO,75,175584,Aitana,,80,,False,6 DE FEBRERO,single,2025-05-05,2TCUMmklsJTLWHnoU4mSQ4,7eLcDZDYHXZCebtQmVFL25,Los 40 Principales
-4,blackout 🧊,84,182282,Emilia,argentine trap,80,TINI|Nicki Nicole,False,blackout 🧊,single,2025-03-25,2efbgTtEGNpsUZaOfgRTR6,0AqlFI0tz2DsEoJlKSIiT9,Los 40 Principales
-5,APT.,94,169917,ROSÉ,k-pop,85,Bruno Mars,False,APT.,single,2024-10-18,5vNRhkKd0yEAg8suGBpjeY,3eVa5w3URK5duf6eyVDbu9,Los 40 Principales
-6,SOLEAO,89,218305,Myke Towers,reggaeton|trap latino|urbano latino,90,Quevedo,False,SOLEAO,single,2025-05-29,3jAshemiRYWukWLtT3Ivrb,7iK8PXO48WeuP03g8YR51W,Los 40 Principales
-7,capaz (merengueton),90,173858,Alleh,,80,Yorghaki,False,LA CIUDAD,album,2024-12-24,4DnrAI8WyUY6gkOwl8GlPN,3DeOmVSmpv7WknXoo1OS8p,Los 40 Principales
-8,Condena,59,149706,Elena Vargas,flamenco pop|flamenco|flamenco urbano,52,,False,Condena,single,2025-01-17,62RRxhyB8i8GRayf8Ln61l,60FnATm9TT7JG58EHFKs5O,Los 40 Principales
-9,Die With A Smile,97,251667,Lady Gaga,art pop|pop,93,Bruno Mars,False,Die With A Smile,single,2024-08-16,2plbrEY59IikOBgBGLjaoe,1HY2Jd0NmPuamShAr6KMms,Los 40 Principales
-10,Carita Linda,77,203463,Rauw Alejandro,reggaeton|urbano latino|trap latino|latin,92,,False,Carita Linda,single,2025-04-10,5u5gkOBTv48cpXVMqkPkpK,1mcTU81TzQhprhouKaTkpq,Los 40 Principales
-11,TÚ CONFÍA,57,195138,Polo Nandez,,48,,False,TÚ CONFÍA,single,2025-03-14,4ggIHM8Vxnxu4abzzJupfI,57YqxYzBuraaQNq8POH0pM,Los 40 Principales
-12,Anxiety,89,249302,Doechii,,83,,True,Anxiety,single,2025-03-05,1musbempyJAw5gfSKZHXP9,4E2rKHVDssGJm2SCDOMMJB,Los 40 Principales
-13,Nice To Meet You,82,176000,Myles Smith,,80,,False,A Minute...,single,2024-11-08,726SEjbF3ToEbYbn43gnxl,3bO19AOone0ubCsfDXDtYt,Los 40 Principales
-14,Eso No Es Querer,61,168625,Elena Vargas,flamenco pop|flamenco|flamenco urbano,52,,False,Eso No Es Querer,single,2025-06-06,3soEAGCxZWTadjZk35zQRb,60FnATm9TT7JG58EHFKs5O,Los 40 Principales
-15,Imagínate,87,170365,Danny Ocean,reggaeton,83,Kapo,False,Imagínate,single,2024-11-07,4zbEItKoaRId1vRZkoO0Uh,5H1nN1SzW0qNeUEZvuXjAj,Los 40 Principales
-16,Azizam,93,162029,Ed Sheeran,soft pop,92,,False,Azizam,single,2025-04-04,0GRc3eGTg8HBdWLRGYgqIc,6eUKZXaKkcviH0Ku9w2n3V,Los 40 Principales
-17,NEXO 04. Tu cuerpo en braille,68,165887,Nil Moliner,,63,,False,NEXO 04. Tu cuerpo en braille,single,2025-05-09,06qH2muOjme474WL3YKcBe,6X8uzem5Dbl4l2so4CeexD,Los 40 Principales
-18,El Apagón,60,174585,Melody,flamenco pop,61,,False,El Apagón,single,2025-05-23,6UvfhNHtFim6xwoFHLvLIF,3muH0fOWJZ2SaxK3agdOMD,Los 40 Principales
-19,Cosas Pendientes,80,184462,Maluma,reggaeton|latin|urbano latino,88,,False,Cosas Pendientes,single,2024-11-21,0iVEujJcafOBnxa654fJYu,1r4hJ1h58CWwUQe3MxPuau,Los 40 Principales
-20,Bad Dreams,85,184577,Teddy Swims,,88,,False,Bad Dreams,single,2024-09-13,3nHuKdFJZm78CoeBnDcFKe,33qOK5uJ8AR2xuQQAhHump,Los 40 Principales
-21,Parte De Mí,52,159882,Polo Nandez,,48,Mar Lucas,False,Parte De Mí,single,2024-03-08,3RcZRo0K1lbKCYbNwu3wm1,57YqxYzBuraaQNq8POH0pM,Los 40 Principales
-22,Fiesta En El Centro,56,156706,Naiara,,50,,False,Fiesta En El Centro,single,2025-04-24,669RDcakvwPTTBFga67wqh,1VGOLh7hwVeKj2kqTkDAz6,Los 40 Principales
-23,End of the World,82,250483,Miley Cyrus,,86,,False,End of the World,single,2025-04-04,5SxahezRlC0saXbCALfB7c,5YGY8feqx7naU7z4HrwZM6,Los 40 Principales
-24,Solo A Mí,52,184071,Pepe Bernabé,flamenco pop|flamenco|flamenco urbano,43,,False,Solo A Mí,single,2025-03-28,7aZMEAdnqHIEOSO6GbN12P,1CatgsvZ6RfKSHiwyqPZ32,Los 40 Principales
-25,SIN AUTOTUNE,59,161326,Lola Indigo,,72,,False,NAVE DRAGÓN,album,2025-03-27,2xkAMFdKwbFFfY5jMEhi42,3bvfu2KAve4lPHrhEFDZna,Los 40 Principales
-26,Carpe Diem,58,240016,Dani Martín,,64,,False,El Último Día de Nuestras Vidas,album,2024-11-29,4l7qXzZrZnr2RUgSVSKtnD,3AIPhNgeF9S1Kyg9Yy3UQW,Los 40 Principales
-27,Llueve,55,201471,Elena Vargas,flamenco pop|flamenco|flamenco urbano,52,,False,Llueve,single,2025-04-25,0oIRhKoFlsbOo9MLzfM0lt,60FnATm9TT7JG58EHFKs5O,Los 40 Principales
-28,Born With a Broken Heart,79,208956,Damiano David,,77,,False,Born With a Broken Heart,single,2024-10-25,2z9FUHRkbkV4BObNzbHsFU,7AaGbSgUxJFuZ49VvclNH6,Los 40 Principales
-29,Me Toca A Mí,72,180340,Morat,colombian pop|latin pop,84,Camilo,False,Me Toca A Mí,single,2025-03-28,3SWXwV7jo4NFtRBVkpAq1U,5C4PDR4LnhZTbVnKWXuDKD,Los 40 Principales
-30,Perdida en el tiempo,47,160000,Joanna Crass,indie r&b,44,,False,Vértigo,album,2025-04-04,4BrdFj8UsOJJQ7KYPyrZOq,5NH7AZYpUjd9UL1vR3KMzD,Los 40 Principales
-31,That’s So True,95,166300,Gracie Abrams,,87,,True,The Secret of Us (Deluxe),album,2024-10-18,7ne4VBA60CxGM75vw0EYad,4tuJ0bMpJh08umKkEXKUI5,Los 40 Principales
-32,La Pelirroja,63,164745,Sebastian Yatra,colombian pop|reggaeton,82,,False,La Pelirroja,single,2025-03-21,6Jz04ruR15iuwrUwW3usr9,07YUOmWljBTXwIseAUd9TW,Los 40 Principales
-33,Me Subo Por Las Paredes,57,235932,Antoñito Molina,flamenco pop|flamenco,63,Abel Pintos,False,Me Subo Por Las Paredes,single,2025-06-13,7nRJo5qJM4jCKFpqJ06xpV,32TNt1biE79JwouUBk0SOi,Los 40 Principales
-34,Si te vuelvo a llamar,67,175754,Beret,,72,,False,Si te vuelvo a llamar,single,2025-05-02,2tdpP18jNRTREK255JpMo5,0ZHPrnImGh4re3TbSNkoZl,Los 40 Principales
-35,UN BESO A LA MITAD,62,152083,Enol,,55,,False,UN BESO A LA MITAD,single,2025-05-23,0sZqCs8qlLmKNpvP7AbETA,5f7z2thkqWrA4vp5Hh476O,Los 40 Principales
-36,Que No Se Acabe La Noche,51,193546,Gonzalo Hermida,,47,,False,Que No Se Acabe La Noche,single,2025-06-27,05GamgtwWB7a2hkqGVcZ54,2bk3GMoc0FPUB4nt5gW7Or,Los 40 Principales
-37,Messy,90,284068,Lola Young,,82,,True,Messy,single,2024-05-30,3SKH53SPQbEnZR4cJPVaz2,67FB4n52MgexGQIG8s0yUH,Los 40 Principales
-38,BEIBI,49,205790,La Beba,,38,MAYO,True,BEIBI,single,2025-05-30,1ygrKZCsm6TtJAFAk3gSjx,3VrdQuBgabaPZXXuNBVWXJ,Los 40 Principales
-39,PARTYDAKAR,45,145294,Salazar,,31,OZE,False,PARTYDAKAR,single,2025-06-27,6AK4XJM0LLF48TD4maomje,73X4fppU5NABqeJgfX8nnf,Los 40 Principales
-40,Qué Pecao,69,230073,Manuel Turizo,reggaeton|pop urbano|latin|colombian pop,85,Kapo,False,Qué Pecao,single,2024-10-03,456U68M8lIymkz56Zroxh8,0tmwSHipWxN12fsoLcFU3B,Los 40 Principales
-41,Manchild,98,213645,Sabrina Carpenter,,92,,True,Manchild,single,2025-06-05,42UBPzRMh5yyz0EDPr6fr1,74KM79TiuVKeVCqs8QtB0B,Los 40 Principales
-42,Vente Pa' Aquí,53,161039,Polo Nandez,,48,Shakira Martínez,False,Vente Pa' Aquí,single,2024-09-27,22iIQYmsGCvJkSz1mJ6GsE,57YqxYzBuraaQNq8POH0pM,Los 40 Principales
-43,BAILAR Y LLORAR,56,177106,Vicco,,57,,False,BAILAR Y LLORAR,single,2025-02-28,1xdN7tQWUo6eaeW9dOpiyh,2z1MpPojFcvxYcEAx0lT6w,Los 40 Principales
-44,esc,42,183124,Paul Thin,,44,,False,esc,single,2024-11-07,4JcTBSL3PDxgFE407EO37q,0aA3vWOE6EWwJH8hDImZdv,Los 40 Principales
-45,¿Dónde estará?,49,166000,Joanna Crass,indie r&b,44,,False,Vértigo,album,2025-04-04,4EacPZlBE2hkzLlMgAXiLX,5NH7AZYpUjd9UL1vR3KMzD,Los 40 Principales
-46,Ciao Amore,50,165857,Malva,,37,Enula,False,Ciao Amore,single,2025-04-03,1oWw1Jiq75Zo2BTaCKndfU,6bccVp7HLSZxfLlQWjyPnN,Los 40 Principales
-47,ESTRELLA DE ROCK,52,159840,RUSLANA,,50,,False,GÉNESIS,album,2024-11-14,0PdIAEzN1AK5laexRwivq0,0Hx5M9oJbPM1sGqQ6iNgkB,Los 40 Principales
-48,Te Confieso,66,179679,DePol,,59,,False,Te Confieso,single,2024-11-22,65hdAblzcILvqLPER3jjoM,16t23tANCHuuAN0yPqBbA0,Los 40 Principales
-49,KIKI,49,160800,Kenneth,latin afrobeats,43,Escolano|Zeper,False,KIKI,single,2025-07-04,5lfTkFlbDudfdmY51aYuY1,3PWzbjrWG3pYUbo2NfACIt,Los 40 Principales
-50,Festival,60,173173,Bombai,,53,,False,10 Años Contigo,album,2025-02-07,5sKt4nQDFx2RfkLwFd2u9f,4sbKCRFKQ8sAUn1pWR5iKZ,Los 40 Principales
-51,La Manera,53,144057,Adexe & Nau,,51,,True,La Manera,single,2025-03-28,7inj5oExaS4pTSIKJYMW3R,0ndVqPlOidgsJ4yB3Fc5ec,Los 40 Principales
-52,PLAN DE HOY [QUIERO VERTE],58,191551,Abraham Mateo,,67,,False,PLAN DE HOY [QUIERO VERTE],single,2025-03-27,7bM39j41perIVseatvugg3,2bxxlINUlcMQQb39K7IopR,Los 40 Principales
-53,Me has invitado a bailar,66,192906,Dani Fernández,,68,,False,Me has invitado a bailar,single,2024-08-23,0JJw1ghkoEu3Yat1uOSjAE,0CVOcYvRcSvOXyuR4YGKaC,Los 40 Principales
-54,CLICKBAIT,59,160431,Pablo Alborán,latin pop,75,,False,CLICKBAIT,single,2025-03-26,6KxI6NASKcMLfX6Hgr2F7p,5M9Bb4adKAgrOFOhc05Y50,Los 40 Principales
-55,aurora,45,159605,Manu Llovo,,34,Lina de Sol,False,aurora,single,2025-06-27,2tWvYP4UDG3cuvPpKLOg38,5iUm5ugTVKqEpdntMg9AP5,Los 40 Principales
-56,Wounded Little Soul,52,207483,Matt-Felix,,41,,False,Wounded Little Soul,single,2025-06-27,1sG2GN6RLa97FCajn0LJpY,4T052xBzxDNV7ytuTFysnu,Los 40 Principales
-57,Malvao,44,202000,Elena Vargas,flamenco pop|flamenco|flamenco urbano,52,,False,Flamentronic,single,2025-07-04,2tgeSV1VD1OM3D2fmgzHJE,60FnATm9TT7JG58EHFKs5O,Los 40 Principales
-58,Rain,56,260624,Sunday (1994),bedroom pop,47,,False,Rain,single,2025-04-11,5ji0TlbJHbHkbNrr6hoi0n,1vTFaCiaR50b2IXELHW52U,Los 40 Principales
-59,Ojalá te des cuenta,45,181358,Joanna Crass,indie r&b,44,,True,Vértigo,album,2025-04-04,3aS4jI7CnMyyJIKsQdKECU,5NH7AZYpUjd9UL1vR3KMzD,Los 40 Principales
-60,Love & Loneliness,52,171701,Harper Finn,,35,,False,Love & Loneliness,single,2025-06-05,0gmlaB87gjwHdPqNlO5fVF,3CUxThJ21i78mhH1FfH55u,Los 40 Principales
-61,2 EXTRAÑOS,44,171818,Pepe Bernabé,flamenco pop|flamenco|flamenco urbano,43,Polo Nandez,True,2 EXTRAÑOS,single,2024-12-20,74KaOQ23kpjgW7VZFWTtLQ,1CatgsvZ6RfKSHiwyqPZ32,Los 40 Principales
-62,Lay Low,52,210639,Matt-Felix,,41,,True,Lay Low,single,2024-06-21,1II87EJtkBXN06a8juVNft,4T052xBzxDNV7ytuTFysnu,Los 40 Principales
-63,Tengo que despertar,42,164870,Javypablo,spanish-language reggae,38,,False,PARA QUE TE QUIERAS QUEDAR,album,2025-03-20,1sXdd3cU00wv3syWRI61Ef,6M3xYeqwhquYOjf96D2mYq,Los 40 Principales
-64,SANTA MARIA AMAR,41,174688,Sergio Gómez,,23,,False,SANTA MARIA AMAR,single,2025-05-30,6M8ucmVclaFYO0UuncCGPZ,1piy65MS72DCMDAqUScYRS,Los 40 Principales
-65,Pa La Novia De Mi Ex,52,170342,K-Narias,,48,,False,Pa La Novia De Mi Ex,single,2025-07-04,2q9x3nLuIWkBCLMMpMVZLq,6bwz9tsKnEgaWbwGobFWQR,Los 40 Principales
-66,Fases,41,225221,Javypablo,spanish-language reggae,38,,False,PARA QUE TE QUIERAS QUEDAR,album,2025-03-20,3lcbPAJAmwJovOSMtBcaMt,6M3xYeqwhquYOjf96D2mYq,Los 40 Principales
-67,Trato de Encontrarte,39,195356,Noran,,23,,False,Trato de Encontrarte,single,2025-05-16,65hIBFaITUbTlhY1Br10ji,7kDFUhCZeHoOWuzjRr4SNc,Los 40 Principales
-68,Ninguna,39,188717,Elena Vargas,flamenco pop|flamenco|flamenco urbano,52,,False,Flamentronic,single,2025-07-04,48Fch8038TyUhedWcZtUne,60FnATm9TT7JG58EHFKs5O,Los 40 Principales
-69,Tabla,34,129423,Vale Pintos,,23,Papi Sousa,False,Tabla,single,2025-07-18,5pT1bC5uWGnmYsUu2NA8Pg,7DuOPzujoDWP8r3V5zYKM2,Los 40 Principales
-70,Sigo Pensando En Ti,54,149052,Kenneth,latin afrobeats,43,,False,Sigo Pensando En Ti,single,2025-05-02,79mv2n8KDrR9T7xKGk1Swq,3PWzbjrWG3pYUbo2NfACIt,Los 40 Principales
-71,Valió la pena,42,194142,Javypablo,spanish-language reggae,38,St Woods,False,PARA QUE TE QUIERAS QUEDAR,album,2025-03-20,22uPAzwESHmS4OkGt9hXrE,6M3xYeqwhquYOjf96D2mYq,Los 40 Principales
-72,DEJAVUuuu,42,125714,Salazar,,31,OZE,False,DEJAVUuuu,single,2024-05-10,4ouxg0qBjXVQP7NTBlppCG,73X4fppU5NABqeJgfX8nnf,Los 40 Principales
-73,GANAS DE HUIR,44,165209,Andrew Benavides,,26,,False,GANAS DE HUIR,single,2025-05-02,2OWa7nVBlxIPBNm32ZTOYy,156ULFv197kjMhXpWz48uy,Los 40 Principales
-74,Eso No Es Querer,61,168625,Elena Vargas,flamenco pop|flamenco|flamenco urbano,52,,False,Eso No Es Querer,single,2025-06-06,3soEAGCxZWTadjZk35zQRb,60FnATm9TT7JG58EHFKs5O,Los 40 Principales
-1,Dior (feat. Chrystal),85,169159,MK,house,73,Chrystal,False,Dior (feat. Chrystal),single,2025-06-06,6PTgSuFz9JqQ1o0jTYOuvX,1yqxFtPHKcGcv6SXZNdyT9,UK Top 100
-2,Manchild,98,213645,Sabrina Carpenter,,92,,True,Manchild,single,2025-06-05,42UBPzRMh5yyz0EDPr6fr1,74KM79TiuVKeVCqs8QtB0B,UK Top 100
-3,Love Me Not,90,213466,Ravyn Lenae,alternative r&b|indie soul,81,,False,Love Me Not / Love Is Blind,single,2024-05-03,1UNEuG9DYOWiikf00ayr52,5RTLRtXjbXI2lSXc6jxlAz,UK Top 100
-4,Survive,84,225211,Lewis Capaldi,soft pop,82,,False,Survive,single,2025-06-27,5vXPLxljVKyHDHuv3kIuKV,4GNC7GD6oZMSxPGyXy4MNB,UK Top 100
-5,Pink Pony Club,90,258034,Chappell Roan,,86,,False,The Rise and Fall of a Midwest Princess,album,2023-09-22,1k2pQc5i348DCHwbn5KTdc,7GlBOeep6PqTfFi59PTUUN,UK Top 100
-6,Blessings,91,219650,Calvin Harris,edm,90,Clementine Douglas,False,Blessings,single,2025-05-09,78nx0HDJIFD5xDq2L5420Z,7CajNmpbOovFoOoasH2HaY,UK Top 100
-7,Victory Lap,88,165857,Fred again..,stutter house|house,80,Skepta|PlaqueBoyMax,True,Victory Lap,single,2025-06-18,1lbNgoJ5iMrMluCyhI4OQP,4oLeXFyACqeem2VImYeBFe,UK Top 100
-8,Ordinary,96,186964,Alex Warren,,90,,False,Ordinary,single,2025-02-07,6qqrTXSdwiJaq8SO0X2lSe,0fTSzq9jAh4c36UVb4V7CB,UK Top 100
-9,Sapphire,93,179082,Ed Sheeran,soft pop,92,,False,Sapphire,single,2025-06-05,4Q0qVhFQa7j6jRKzo3HDmP,6eUKZXaKkcviH0Ku9w2n3V,UK Top 100
-10,Rein Me In (with Olivia Dean),65,341017,Sam Fender,,76,Olivia Dean,False,Rein Me In (with Olivia Dean),single,2025-06-20,6i2ifddYVX3yKRd9DO25mj,6zlR5ttMfMNmwf2lecU9Cc,UK Top 100
-11,Family Matters,77,177600,Skye Newman,,63,,True,Family Matters,single,2025-05-16,68STxEDIhToladxl3oGG2x,4UoEzpWZrFWvlGYOzTEn1M,UK Top 100
-12,Beautiful Things,88,180304,Benson Boone,,89,,False,Beautiful Things,single,2024-01-18,6tNQ70jh4OwmPGpYy6R2o9,22wbnEMDvgVIAGdFeek6ET,UK Top 100
-13,Just Keep Watching (From F1® The Movie),95,142550,Tate McRae,,92,F1 The Album,False,Just Keep Watching (From F1® The Movie),single,2025-05-30,2yWlGEgEfPot0lv3OAjuG3,45dkTj5sMRSjrmBSBeiHym,UK Top 100
-14,Nice To Each Other,88,209000,Olivia Dean,pop soul,80,,False,Nice To Each Other,single,2025-05-30,7gKxCvTDWwV9wBhdeBbr3l,00x1fYSGhdqScXBRpSj3DW,UK Top 100
-15,Azizam,93,162029,Ed Sheeran,soft pop,92,,False,Azizam,single,2025-04-04,0GRc3eGTg8HBdWLRGYgqIc,6eUKZXaKkcviH0Ku9w2n3V,UK Top 100
-16,Mystical Magical,90,165746,Benson Boone,,89,,False,Mystical Magical,single,2025-04-24,221eHga9f9Ne4f8D7WVgPT,22wbnEMDvgVIAGdFeek6ET,UK Top 100
-17,Acquiesce - Remastered,73,267986,Oasis,britpop|madchester,85,,False,(What's The Story) Morning Glory? (Deluxe Remastered Edition),album,1995,2VVRmrgSmyYnEZsBTsnIRz,2DaxqgrOhkeH0fpeiQq2f4,UK Top 100
-18,Don't Look Back In Anger,74,287826,Oasis,britpop|madchester,85,,False,(What's The Story) Morning Glory?,album,1995-10-02,7ppPZa3TRUSGKaks9wH7VT,2DaxqgrOhkeH0fpeiQq2f4,UK Top 100
-19,Live Forever - Remastered,75,276666,Oasis,britpop|madchester,85,,False,Definitely Maybe (Deluxe Edition Remastered),album,1994,6TlQ5fbojNRuG0hPQMbxeW,2DaxqgrOhkeH0fpeiQq2f4,UK Top 100
-20,Golden,99,194607,HUNTR/X,k-pop,88,EJAE|AUDREY NUNA|REI AMI|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,1CPZ5BxNNd0n0nF4Orb9JS,2yNNYQBChuox9A5Ka93BIn,UK Top 100
-21,Shake It To The Max (FLY),74,127346,MOLIY,alté,82,Silent Addy,False,Shake It To The Max (FLY),single,2024-12-03,5JgNxMf1Z9oksGKidbFAUq,2hVWBpjLW4Q7fboYz2pVYK,UK Top 100
-22,Can't Decide,80,175384,Max Dean,house|tech house,65,Luke Dean|Locky,False,Can't Decide,single,2025-05-23,10pfamFYvg5ftwq6rGJrWx,65TLDWbTJxYASqadmNAxvc,UK Top 100
-23,Illegal,89,149666,PinkPantheress,bedroom pop,83,,False,Fancy That,album,2025-05-09,1WmBVbFmLt0w6zPP37TeCG,78rUTD7y6Cy67W1RVzYs7t,UK Top 100
-24,One Thing,87,208829,Lola Young,,82,,True,One Thing,single,2025-05-16,6KFQdIB3njXBQNcg1xUh9U,67FB4n52MgexGQIG8s0yUH,UK Top 100
-25,No Broke Boys,89,163994,Disco Lines,stutter house,74,Tinashe,True,No Broke Boys,single,2025-06-06,3cZajhyr8LmtPfHZ9296tj,5Kmr0b3ip8g9P2i0dLTC3Z,UK Top 100
-26,Your Idol,97,191537,Saja Boys,k-pop,83,Andrew Choi|Neckwav|Danny Chung|KEVIN WOO|samUIL Lee|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,1I37Zz2g3hk9eWxaNkj031,0BJ2EjOqcfgFvlZXNKrNbE,UK Top 100
-27,What Did I Miss?,90,194324,Drake,rap,99,,True,What Did I Miss?,single,2025-07-05,57GsLpRtEtrzcPGPop20rS,3TVXtAsR1Inumwj472S9r4,UK Top 100
-28,High On Me,77,189767,Rossi.,tech house|house,61,Jazzy,False,High On Me,single,2025-06-20,3Z23sDc2J9ZkmFiMStRoIp,7itMGcVGRKS43LcTQvJitf,UK Top 100
-29,Nice To Meet You,82,176000,Myles Smith,,80,,False,A Minute...,single,2024-11-08,726SEjbF3ToEbYbn43gnxl,3bO19AOone0ubCsfDXDtYt,UK Top 100
-30,Bloodline (with Jelly Roll),91,182008,Alex Warren,,90,Jelly Roll,False,Bloodline (with Jelly Roll),single,2025-05-22,0qmhTHMVxnXRmT5N92wTD9,0fTSzq9jAh4c36UVb4V7CB,UK Top 100
-31,back to friends,100,199032,sombr,,88,,False,back to friends,single,2024-12-27,0FTmksd2dxiE5e3rWyJXs6,4G9NDjRyZFDlJKMRL8hx3S,UK Top 100
-32,How It’s Done,96,176059,HUNTR/X,k-pop,88,EJAE|AUDREY NUNA|REI AMI|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,3RXUgPNIbUgFxsDWuBQEt6,2yNNYQBChuox9A5Ka93BIn,UK Top 100
-33,Fame is a Gun,82,183237,Addison Rae,,81,,False,Fame is a Gun,single,2025-05-30,1c2AFg2WpURtpsOTMr6ZBX,4gvjmrtzydbMpyJaXUtwvP,UK Top 100
-34,party 4 u,92,296653,Charli xcx,hyperpop|art pop,88,,False,how i'm feeling now,album,2020-05-15,2RdEC8Ff83WkX7kDVCHseE,25uiPmTg16RbhZWAqwLBy5,UK Top 100
-35,undressed,96,182088,sombr,,88,,False,undressed,single,2025-03-21,4AajxCEwGEsmHmT4H1TwjY,4G9NDjRyZFDlJKMRL8hx3S,UK Top 100
-36,The Glen - Levi Heron Edit,82,173056,Levi Heron,,64,,False,The Glen (Levi Heron Edit),single,2025-05-09,7K2DFO1NYMtBdNP6vNlhWI,4l6SsatjUmNTPQEOS33NnP,UK Top 100
-37,Say My Name - Remix,85,168000,Morgan Seatree,hard house,73,Florence + The Machine,False,Say My Name (Remix),single,2024-12-06,6GOOcBV0wLoHrH5D9AWA32,0GInfEJXl2kGPhSsVqEqXh,UK Top 100
-38,Rock That Body,89,268840,Black Eyed Peas,,87,,False,THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version],album,2009-01-01,2WQ09wqQBIOor7Q0VpIDBK,1yxSLGMDHlW21z4YXirZDS,UK Top 100
-39,Messy,90,284068,Lola Young,,82,,True,Messy,single,2024-05-30,3SKH53SPQbEnZR4cJPVaz2,67FB4n52MgexGQIG8s0yUH,UK Top 100
-40,Show Me Love,94,176965,WizTheMc,,79,bees & honey,False,Show Me Love,single,2025-02-07,5ITV0zqzjOYfFWpW0xBmRa,3ebS2RuCq8QeLyndUDmgB5,UK Top 100
-41,APT.,94,169917,ROSÉ,k-pop,85,Bruno Mars,False,APT.,single,2024-10-18,5vNRhkKd0yEAg8suGBpjeY,3eVa5w3URK5duf6eyVDbu9,UK Top 100
-42,On My Mind,87,189557,Alex Warren,,90,ROSÉ,False,On My Mind,single,2025-06-27,1tMRh8jiYlmatpVeWWesCe,0fTSzq9jAh4c36UVb4V7CB,UK Top 100
-43,That’s So True,95,166300,Gracie Abrams,,87,,True,The Secret of Us (Deluxe),album,2024-10-18,7ne4VBA60CxGM75vw0EYad,4tuJ0bMpJh08umKkEXKUI5,UK Top 100
-44,Sparks,92,227093,Coldplay,,92,,False,Parachutes,album,2000-07-10,7D0RhFcb3CrfPuTJ0obrod,4gzpq5DPGxSnKTe4SA8HAU,UK Top 100
-45,BIRDS OF A FEATHER,99,210373,Billie Eilish,,95,,False,HIT ME HARD AND SOFT,album,2024-05-17,6dOtVTDdiauQNBQEDOtlAB,6qqNVTkY8uBg9cP3Jd7DAH,UK Top 100
-46,Espresso,90,175459,Sabrina Carpenter,,92,,True,Espresso,single,2024-04-12,2qSkIjg1o9h3YT9RAgYN75,74KM79TiuVKeVCqs8QtB0B,UK Top 100
-47,The Days,68,169412,Chrystal,,77,,False,The Days,single,2024-10-01,5hdk8xva1LqTDEgs3yLdRH,5bQ3wFgekuIMIcWJuxkqLK,UK Top 100
-48,Lose Control,84,210688,Teddy Swims,,88,,False,Lose Control,single,2023-06-23,6usohdchdzW9oML7VC4Uhk,33qOK5uJ8AR2xuQQAhHump,UK Top 100
-49,Stargazing,91,172533,Myles Smith,,80,,False,Stargazing,single,2024-05-10,3Vr3zh0r7ALn8VLqCiRR10,3bO19AOone0ubCsfDXDtYt,UK Top 100
-50,What Was That,80,209286,Lorde,,87,,False,What Was That,single,2025-04-24,2jNyiavSywmA472t2m6ZBz,163tK9Wjr9P9DmM0AVK7lm,UK Top 100
-51,"Good Luck, Babe!",93,218423,Chappell Roan,,86,,False,"Good Luck, Babe!",single,2024-04-05,0WbMK4wrZ1wFSty9F7FCgu,7GlBOeep6PqTfFi59PTUUN,UK Top 100
-52,Cops & Robbers,75,161495,Sammy Virji,uk garage|bassline|bass house|house,68,Skepta,False,Cops & Robbers,single,2025-05-29,5pa2ZyJ3dIEmxRDW74msQi,1GuqTQbuixFHD6eBkFwVcb,UK Top 100
-53,Take A Sexy Picture Of Me,76,229933,CMAT,,64,,False,Take A Sexy Picture Of Me,single,2025-05-07,0gQpTmVvkNauZzh5YSIrHY,3VBNIRx1LxVdRqOiPgkLwv,UK Top 100
-54,What I Want (feat. Tate McRae),75,184517,Morgan Wallen,country,95,Tate McRae,False,I’m The Problem,album,2025-05-16,48NthgcgfoRrWT8LtgW28A,4oUHIQIBe0LHzYfvXNW4QM,UK Top 100
-55,Stick Season,88,182346,Noah Kahan,,85,,False,Stick Season,album,2022-10-14,0mflMxspEfB0VbI1kyLiAv,2RQXRUsr4IW1f3mKyKsy4B,UK Top 100
-56,Die With A Smile,97,251667,Lady Gaga,art pop|pop,93,Bruno Mars,False,Die With A Smile,single,2024-08-16,2plbrEY59IikOBgBGLjaoe,1HY2Jd0NmPuamShAr6KMms,UK Top 100
-57,Suzanne,81,235328,Mark Ronson,,79,RAYE,False,Suzanne,single,2025-06-13,3EL4YcUAmGkfTKXhS49Y3w,3hv9jJF3adDNsBSIQDqcjp,UK Top 100
-58,Dreams - 2004 Remaster,92,257800,Fleetwood Mac,classic rock|yacht rock|soft rock,87,,False,Rumours (Super Deluxe),album,1977-02-04,0ofHAoxe9vBkTCp2UQIavz,08GQAI4eElDnROBrJRGE0X,UK Top 100
-59,Juno,87,223192,Sabrina Carpenter,,92,,True,Short n' Sweet,album,2024-08-23,21B4gaTWnTkuSh77iWEXdS,74KM79TiuVKeVCqs8QtB0B,UK Top 100
-60,Bad Dreams,85,184577,Teddy Swims,,88,,False,Bad Dreams,single,2024-09-13,3nHuKdFJZm78CoeBnDcFKe,33qOK5uJ8AR2xuQQAhHump,UK Top 100
-61,Iris,76,289906,The Goo Goo Dolls,,79,,False,Greatest Hits Volume One - The Singles,compilation,2007-11-06,6vrUTGn5p8IrfTZ0J6sIVM,2sil8z5kiy4r76CRTXxBCA,UK Top 100
-62,Someone You Loved,90,182160,Lewis Capaldi,soft pop,82,,False,Divinely Uninspired To A Hellish Extent,album,2019-05-17,7qEHsqek33rTcFNT9PFqLf,4GNC7GD6oZMSxPGyXy4MNB,UK Top 100
-63,Dive,82,200759,Olivia Dean,pop soul,80,,False,Messy,album,2023-06-30,36vmaZyO0iAE6FZ7287fg2,00x1fYSGhdqScXBRpSj3DW,UK Top 100
-64,The Door,89,212648,Teddy Swims,,88,,False,I've Tried Everything But Therapy (Part 1),album,2023-09-15,3dj4wgM3cPeuLwMNHDuBon,33qOK5uJ8AR2xuQQAhHump,UK Top 100
-65,A Bar Song (Tipsy),88,171291,Shaboozey,,82,,True,A Bar Song (Tipsy),single,2024-04-12,2FQrifJ1N335Ljm3TjTVVf,3y2cIKLjiOlp1Np37WiUdH,UK Top 100
-66,Mr. Brightside,91,222973,The Killers,alternative rock,80,,False,Hot Fuss,album,2004,003vvx7Niy0yvhvHt4a68B,0C0XlULifJtAgn6ZNCW2eu,UK Top 100
-67,Sports car,84,165045,Tate McRae,,92,,False,Sports car,single,2025-01-24,2zOmS55knKWSgScYPTNmGQ,45dkTj5sMRSjrmBSBeiHym,UK Top 100
-68,Drive (From F1® The Movie),82,187396,Ed Sheeran,soft pop,92,F1 The Album,False,Drive (From F1® The Movie),single,2025-06-20,0iIcuwia47B5bzjVpyUwyI,6eUKZXaKkcviH0Ku9w2n3V,UK Top 100
-69,Sultans Of Swing,87,348400,Dire Straits,classic rock,81,,False,Dire Straits,album,1978-10-07,37Tmv4NnfQeb0ZgUC4fOJj,0WwSkZ7LtFUFjGjMZBMt6T,UK Top 100
-70,Sailor Song,14,211978,Gigi Perez,,80,,False,Sailor Song,single,2024-07-26,0UYnhUfnUj5adChuAXvLUB,1iCnM8foFssWlPRLfAbIwo,UK Top 100
-71,Too Sweet,80,251424,Hozier,,86,,False,Unheard,single,2024-03-22,3HMY0r2BAdpasXMY8rseR0,2FXC3k01G6Gw61bmprjgqS,UK Top 100
-72,All I Ever Asked,61,215384,Rachel Chinouriri,,67,,False,All I Ever Asked,single,2022-03-08,2F9DCIJ7ZXHhNkiIlIIOkw,4wrzxtBZw20ufDstKyTnnP,UK Top 100
-73,Don't Wake Me Up,73,154139,James Hype,house|tech house,72,,False,Don't Wake Me Up,single,2025-03-21,3sU1L9okYWbN61oHZNQTfh,43BxCL6t4c73BQnIJtry5v,UK Top 100
-74,Gold,77,164000,Myles Smith,,80,,False,"A Minute, A Moment...",single,2025-05-23,3hZo9UznjcWfJ9vkOho6Ea,3bO19AOone0ubCsfDXDtYt,UK Top 100
-75,Somedays,84,207168,Sonny Fodera,house,73,Jazzy|D.O.D,False,Somedays,single,2024-07-26,3wo3d0I5H8KjkwGvnz8WbB,39B7ChWwrWDs7zXlsu3MoP,UK Top 100
-76,The Chain - 2004 Remaster,89,270213,Fleetwood Mac,classic rock|yacht rock|soft rock,87,,False,Rumours (Super Deluxe),album,1977-02-04,5e9TFTbltYBg2xThimr0rU,08GQAI4eElDnROBrJRGE0X,UK Top 100
-77,we never dated,88,196931,sombr,,88,,False,we never dated,single,2025-06-20,7o3xJRQhpHRZ6IbyQX2xrp,4G9NDjRyZFDlJKMRL8hx3S,UK Top 100
-78,Everywhere,72,222733,Fleetwood Mac,classic rock|yacht rock|soft rock,87,,False,Greatest Hits,compilation,1988-11-21,1prZ0pr6XoRCxcrC3MCL0M,08GQAI4eElDnROBrJRGE0X,UK Top 100
-79,Back It Up,74,156398,Josh Baker,house,62,Omar+,False,Back It Up,single,2025-03-21,5bdKaYnig6IqBsQQqBUjHm,4zf8Awb8y1X9qwL4oiVRd6,UK Top 100
-80,Gnarly,91,137316,KATSEYE,k-pop,84,,True,Gnarly,single,2025-04-30,1j15Ar0qGDzIR0v3CQv3JL,3c0gDdb9lhnHGFtP4prQpn,UK Top 100
-81,Hairdresser,50,207669,Skye Newman,,63,,True,Hairdresser,single,2025-03-28,3ACuAlEUbOaRICryHUPoSL,4UoEzpWZrFWvlGYOzTEn1M,UK Top 100
-82,NOW IT'S GONE,76,143184,IN PARALLEL,uk garage,65,,False,NOW IT'S GONE,single,2024-10-17,5v5yF1qIhHD1ptZoN8dxv7,6xaiGRpXAB9JdoSy3gzw4H,UK Top 100
-83,TYRANT,78,250725,Beyoncé,,89,Dolly Parton,False,COWBOY CARTER,album,2024-03-29,5mUlozUYpdmXVPkj4BW8cA,6vWDO969PvNqNYHIOW5v0m,UK Top 100
-84,Zombie,76,246946,YUNGBLUD,,77,,False,Zombie,single,2025-05-30,7DQotDUGnJkXgNJv363GXF,6Ad91Jof8Niiw0lGLLi3NW,UK Top 100
-85,cliché,85,176242,mgk,,81,,False,cliché,single,2025-05-23,3aD33slymVwdEcdbKUBnDu,6TIYQ3jFPwQSRmorSezPxX,UK Top 100
-86,All I Know (with Khalid),73,176046,Rudimental,,73,Khalid,False,All I Know (with Khalid),single,2025-04-04,2rgWhlzASxN4MKk7c3RAGP,4WN5naL3ofxrVBgFpguzKo,UK Top 100
-87,Gabriela,93,197226,KATSEYE,k-pop,84,,False,Gabriela,single,2025-06-20,1xOqGUkyxGQRdCvGpvWKmL,3c0gDdb9lhnHGFtP4prQpn,UK Top 100
-88,Let Down - Remastered,73,299280,Radiohead,art rock|alternative rock,88,,False,OK Computer OKNOTOK 1997 2017,album,2017-06-23,1CeC8kOYxUTCC2wHGtWROD,4Z8W4fKeB5YxbusRsdQVPb,UK Top 100
-89,I need to know,64,138166,Denon Reed,bassline,57,Cru2,False,I need to know,single,2024-09-30,2mc817QLOMfEGZG2rlQsy3,7uPcIYxrvLRWaL0xQU4TnE,UK Top 100
-90,I Had Some Help (Feat. Morgan Wallen),86,178205,Post Malone,,90,Morgan Wallen,True,I Had Some Help,single,2024-05-10,7221xIgOnuakPdLqT0F3nP,246dkjvS1zLTtiykXe5h60,UK Top 100
-91,Sorry I'm Here For Someone Else,86,156582,Benson Boone,,89,,False,Sorry I'm Here For Someone Else,single,2025-02-27,3x3K1RP3Zfi2qeMR8kyrNO,22wbnEMDvgVIAGdFeek6ET,UK Top 100
-92,The Way I Love You,72,203813,Jorja Smith,,76,,False,The Way I Love You,single,2025-05-01,6u1xR1LKAiahXPrwjNCkky,1CoZyIx7UvdxT5c8UkMzHd,UK Top 100
-93,Nope your too late i already died,93,90067,wifiskeleton,,78,i wanna be a jack-o-lantern,False,suburban daredevil,album,2024-10-22,0hta2Lb2zKJ7kEnAEZEE3G,0TvvDswOgvPbgSPK2RDf62,UK Top 100
-94,Tell Me,78,197549,Sonny Fodera,house,73,Clementine Douglas,False,Tell Me,single,2025-02-07,114I7yDc6X70Dq8labTqw8,39B7ChWwrWDs7zXlsu3MoP,UK Top 100
-95,Viva La Vida,90,242373,Coldplay,,92,,False,Viva La Vida or Death and All His Friends,album,2008-06-06,1mea3bSkSGXuIRvnydlB5b,4gzpq5DPGxSnKTe4SA8HAU,UK Top 100
-96,Creep,93,238640,Radiohead,art rock|alternative rock,88,,True,Pablo Honey,album,1993-02-22,70LcF31zb1H0PyJoS1Sx1r,4Z8W4fKeB5YxbusRsdQVPb,UK Top 100
-97,Austin (Boots Stop Workin'),89,171782,Dasha,,74,,True,What Happens Now?,album,2024-02-16,2uqYupMHANxnwgeiXTZXzd,7Ez6lTtSMjMf2YSYpukP1I,UK Top 100
-98,Plastic Box,72,201053,JADE,,65,,True,Plastic Box,single,2025-06-20,7zPfFxH8WxUUffU8rqB4kU,24b0qNYNgeOfpP5rbljIB3,UK Top 100
-99,Yellow,93,266773,Coldplay,,92,,False,Parachutes,album,2000-07-10,3AJwUDP919kvQ9QcozQPxg,4gzpq5DPGxSnKTe4SA8HAU,UK Top 100
-100,Unwritten,90,259333,Natasha Bedingfield,,76,,False,Unwritten,album,2004-08-30,3U5JVgI2x4rDyHGObzJfNf,7o95ZoZt5ZYn31e9z1Hc0a,UK Top 100
-1,Ordinary,96,186964,Alex Warren,,90,,False,Ordinary,single,2025-02-07,6qqrTXSdwiJaq8SO0X2lSe,0fTSzq9jAh4c36UVb4V7CB,Billboard Hot 100
-2,What I Want (feat. Tate McRae),75,184517,Morgan Wallen,country,95,Tate McRae,False,I’m The Problem,album,2025-05-16,48NthgcgfoRrWT8LtgW28A,4oUHIQIBe0LHzYfvXNW4QM,Billboard Hot 100
-3,Just In Case,83,166206,Morgan Wallen,country,95,,False,Just In Case,single,2025-03-21,02Ya2Q08bBKFqUJvjmyRXK,4oUHIQIBe0LHzYfvXNW4QM,Billboard Hot 100
-4,A Bar Song (Tipsy),88,171291,Shaboozey,,82,,True,A Bar Song (Tipsy),single,2024-04-12,2FQrifJ1N335Ljm3TjTVVf,3y2cIKLjiOlp1Np37WiUdH,Billboard Hot 100
-5,I'm The Problem,80,177811,Morgan Wallen,country,95,,False,I'm The Problem,single,2025-01-31,3HlWVKwU0JqJXqJK9DWHnZ,4oUHIQIBe0LHzYfvXNW4QM,Billboard Hot 100
-6,luther (with sza),89,177598,Kendrick Lamar,hip hop|west coast hip hop,95,SZA,False,GNX,album,2024-11-22,45J4avUb9Ni0bnETYaYFVJ,2YZyLoL8N0Wb9xBt1NhZWg,Billboard Hot 100
-7,Manchild,98,213645,Sabrina Carpenter,,92,,True,Manchild,single,2025-06-05,42UBPzRMh5yyz0EDPr6fr1,74KM79TiuVKeVCqs8QtB0B,Billboard Hot 100
-8,Lose Control,84,210688,Teddy Swims,,88,,False,Lose Control,single,2023-06-23,6usohdchdzW9oML7VC4Uhk,33qOK5uJ8AR2xuQQAhHump,Billboard Hot 100
-9,Die With A Smile,97,251667,Lady Gaga,art pop|pop,93,Bruno Mars,False,Die With A Smile,single,2024-08-16,2plbrEY59IikOBgBGLjaoe,1HY2Jd0NmPuamShAr6KMms,Billboard Hot 100
-10,Pink Pony Club,90,258034,Chappell Roan,,86,,False,The Rise and Fall of a Midwest Princess,album,2023-09-22,1k2pQc5i348DCHwbn5KTdc,7GlBOeep6PqTfFi59PTUUN,Billboard Hot 100
-11,Beautiful Things,88,180304,Benson Boone,,89,,False,Beautiful Things,single,2024-01-18,6tNQ70jh4OwmPGpYy6R2o9,22wbnEMDvgVIAGdFeek6ET,Billboard Hot 100
-12,Love Me Not,90,213466,Ravyn Lenae,alternative r&b|indie soul,81,,False,Love Me Not / Love Is Blind,single,2024-05-03,1UNEuG9DYOWiikf00ayr52,5RTLRtXjbXI2lSXc6jxlAz,Billboard Hot 100
-13,I Had Some Help (Feat. Morgan Wallen),86,178205,Post Malone,,90,Morgan Wallen,True,I Had Some Help,single,2024-05-10,7221xIgOnuakPdLqT0F3nP,246dkjvS1zLTtiykXe5h60,Billboard Hot 100
-14,MUTT,80,193333,Leon Thomas,,78,,True,MUTT,single,2024-08-09,1mh9eHVRdNhzryG43PXdW1,0nnBZ8FXWjG9wZgM2cpfeb,Billboard Hot 100
-15,BIRDS OF A FEATHER,99,210373,Billie Eilish,,95,,False,HIT ME HARD AND SOFT,album,2024-05-17,6dOtVTDdiauQNBQEDOtlAB,6qqNVTkY8uBg9cP3Jd7DAH,Billboard Hot 100
-16,Espresso,90,175459,Sabrina Carpenter,,92,,True,Espresso,single,2024-04-12,2qSkIjg1o9h3YT9RAgYN75,74KM79TiuVKeVCqs8QtB0B,Billboard Hot 100
-17,Mystical Magical,90,165746,Benson Boone,,89,,False,Mystical Magical,single,2025-04-24,221eHga9f9Ne4f8D7WVgPT,22wbnEMDvgVIAGdFeek6ET,Billboard Hot 100
-18,weren't for the wind,79,193666,Ella Langley,country,78,,False,weren't for the wind,single,2024-10-04,4v9alNvEjLjvqo4LNWwswl,6BRxQ8cD3eqnrVj6WKDok8,Billboard Hot 100
-19,All The Way (feat. Bailey Zimmerman),87,165000,BigXthaPlug,southern hip hop,84,Bailey Zimmerman,True,All The Way (feat. Bailey Zimmerman),single,2025-04-04,73kIKvg65QWieOKXIwyLJP,6qxpnaukVayrQn6ViNvu9I,Billboard Hot 100
-20,NOKIA,92,241023,Drake,rap,99,,True,$ome $exy $ongs 4 U,album,2025-02-14,2u9S9JJ6hTZS3Vf22HOZKg,3TVXtAsR1Inumwj472S9r4,Billboard Hot 100
-21,I Got Better,62,204963,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,4GBNnoGf1FgsPtsgghZ381,4oUHIQIBe0LHzYfvXNW4QM,Billboard Hot 100
-22,Sorry I'm Here For Someone Else,86,156582,Benson Boone,,89,,False,Sorry I'm Here For Someone Else,single,2025-02-27,3x3K1RP3Zfi2qeMR8kyrNO,22wbnEMDvgVIAGdFeek6ET,Billboard Hot 100
-23,Golden,99,194607,HUNTR/X,k-pop,88,EJAE|AUDREY NUNA|REI AMI|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,1CPZ5BxNNd0n0nF4Orb9JS,2yNNYQBChuox9A5Ka93BIn,Billboard Hot 100
-24,Blue Strips,88,147209,Jessie Murph,,82,,False,Blue Strips,single,2025-04-11,7u7IqryLFAygWFz6bsEB7y,2yLzlEFtIS0Q9UkyBZdQA7,Billboard Hot 100
-25,Anxiety,89,249302,Doechii,,83,,True,Anxiety,single,2025-03-05,1musbempyJAw5gfSKZHXP9,4E2rKHVDssGJm2SCDOMMJB,Billboard Hot 100
-26,Outside,82,206711,Cardi B,,82,,True,Outside,single,2025-06-20,139nLHDFZNr3anx8CpUy7u,4kYSro6naA4h99UJvo89HB,Billboard Hot 100
-27,APT.,94,169917,ROSÉ,k-pop,85,Bruno Mars,False,APT.,single,2024-10-18,5vNRhkKd0yEAg8suGBpjeY,3eVa5w3URK5duf6eyVDbu9,Billboard Hot 100
-28,Worst Way,76,220558,Riley Green,country,80,,False,Worst Way,single,2024-03-29,4u2pk0zATUkEeMtuuMtu46,2QMsj4XJ7ne2hojxt6v5eb,Billboard Hot 100
-29,Good News,79,199209,Shaboozey,,82,,False,Good News,single,2024-11-15,54p6vNJwGkt4FTaM8SCsxt,3y2cIKLjiOlp1Np37WiUdH,Billboard Hot 100
-30,Love Somebody,83,204828,Morgan Wallen,country,95,,False,Love Somebody,single,2024-10-18,7hR22TOX3RorxJPcsz5Wbo,4oUHIQIBe0LHzYfvXNW4QM,Billboard Hot 100
-31,Your Idol,97,191537,Saja Boys,k-pop,83,Andrew Choi|Neckwav|Danny Chung|KEVIN WOO|samUIL Lee|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,1I37Zz2g3hk9eWxaNkj031,0BJ2EjOqcfgFvlZXNKrNbE,Billboard Hot 100
-32,30 For 30 (with Kendrick Lamar),84,278277,SZA,r&b,92,Kendrick Lamar,True,SOS Deluxe: LANA,album,2024-12-20,3aSWXU6owkZeVhh94XxEWO,7tYKF4w9nC0nq9CsPZTHyP,Billboard Hot 100
-33,undressed,96,182088,sombr,,88,,False,undressed,single,2025-03-21,4AajxCEwGEsmHmT4H1TwjY,4G9NDjRyZFDlJKMRL8hx3S,Billboard Hot 100
-34,back to friends,100,199032,sombr,,88,,False,back to friends,single,2024-12-27,0FTmksd2dxiE5e3rWyJXs6,4G9NDjRyZFDlJKMRL8hx3S,Billboard Hot 100
-35,Backup Plan (feat. Luke Combs),83,181518,Bailey Zimmerman,country,81,Luke Combs,False,Backup Plan (feat. Luke Combs),single,2025-05-02,58is1MxJ0mafkdwalyYanU,3win9vGIxFfBRag9S63wwf,Billboard Hot 100
-36,That’s So True,95,166300,Gracie Abrams,,87,,True,The Secret of Us (Deluxe),album,2024-10-18,7ne4VBA60CxGM75vw0EYad,4tuJ0bMpJh08umKkEXKUI5,Billboard Hot 100
-37,20 Cigarettes,60,160901,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,2fKPqAXWZmXcWiEVxqIuFD,4oUHIQIBe0LHzYfvXNW4QM,Billboard Hot 100
-38,Timeless (feat. Playboi Carti),48,256000,The Weeknd,,97,Playboi Carti,True,Timeless,single,2024-09-27,1Es7AUAhQvapIcoh3qMKDL,1Xyo4u8uXC1ZmMpatF05PJ,Billboard Hot 100
-39,Burning Blue,82,205724,Mariah the Scientist,alternative r&b,73,,False,Burning Blue,single,2025-05-02,0aWHb6ujnlXkmmOI1ltStc,7HO5fOXE4gh3lzZn64tX2E,Billboard Hot 100
-40,6 Months Later,84,182868,Megan Moroney,country,80,,False,6 Months Later,single,2025-06-20,4Km9FSF9iaQiTLnFPdbPom,5Ppie0uPnbnvGBYRwYmlt0,Billboard Hot 100
-41,Messy,90,284068,Lola Young,,82,,True,Messy,single,2024-05-30,3SKH53SPQbEnZR4cJPVaz2,67FB4n52MgexGQIG8s0yUH,Billboard Hot 100
-42,How It’s Done,96,176059,HUNTR/X,k-pop,88,EJAE|AUDREY NUNA|REI AMI|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,3RXUgPNIbUgFxsDWuBQEt6,2yNNYQBChuox9A5Ka93BIn,Billboard Hot 100
-43,The Giver,83,202768,Chappell Roan,,86,,False,The Giver,single,2025-03-13,5xHgo5JN0wfsV41HnRaos5,7GlBOeep6PqTfFi59PTUUN,Billboard Hot 100
-44,Shake It To The Max (FLY) - Remix,94,178775,MOLIY,alté,82,Silent Addy|Skillibeng|Shenseea,True,Shake It To The Max (FLY) (Remix),single,2025-02-21,0QCIpQV3twfqo9kh0t8Zza,2hVWBpjLW4Q7fboYz2pVYK,Billboard Hot 100
-45,After All The Bars Are Closed,76,191839,Thomas Rhett,country|acoustic country|pop country,79,,False,After All The Bars Are Closed,single,2024-08-09,0oBbkZuDLkT8DY9DK67kfr,6x2LnllRG5uGarZMsD4iO8,Billboard Hot 100
-46,Just Keep Watching (From F1® The Movie),95,142550,Tate McRae,,92,F1 The Album,False,Just Keep Watching (From F1® The Movie),single,2025-05-30,2yWlGEgEfPot0lv3OAjuG3,45dkTj5sMRSjrmBSBeiHym,Billboard Hot 100
-47,I Ain't Comin' Back (feat. Post Malone),79,175271,Morgan Wallen,country,95,Post Malone,False,I Ain't Comin' Back,single,2025-04-18,5ceKWhT3J34xxw5uzIzgU9,4oUHIQIBe0LHzYfvXNW4QM,Billboard Hot 100
-48,Sports car,84,165045,Tate McRae,,92,,False,Sports car,single,2025-01-24,2zOmS55knKWSgScYPTNmGQ,45dkTj5sMRSjrmBSBeiHym,Billboard Hot 100
-49,Soda Pop,96,150686,Saja Boys,k-pop,83,Andrew Choi|Neckwav|Danny Chung|KEVIN WOO|samUIL Lee|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,02sy7FAs8dkDNYsHp4Ul3f,0BJ2EjOqcfgFvlZXNKrNbE,Billboard Hot 100
-50,No One Noticed,93,236906,The Marías,bedroom pop,86,,False,Submarine,album,2024-05-31,3siwsiaEoU4Kuuc9WKMUy5,2sSGPbdZJkaSE2AbcGOACx,Billboard Hot 100
-51,WILDFLOWER,96,261466,Billie Eilish,,95,,False,HIT ME HARD AND SOFT,album,2024-05-17,3QaPy1KgI7nu9FJEQUgn6h,6qqNVTkY8uBg9cP3Jd7DAH,Billboard Hot 100
-52,Superman,57,188200,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,3JlQPeTJDdxR6yYfus8trX,4oUHIQIBe0LHzYfvXNW4QM,Billboard Hot 100
-53,Happen To Me,81,183615,Russell Dickerson,country,70,,False,Happen To Me,single,2025-02-21,64KV9vjChfN2w9vA4j7A2K,1E2AEtxaFaJtH0lO7kgNKw,Billboard Hot 100
-54,SOMEBODY LOVES ME,82,182767,PARTYNEXTDOOR,dark r&b|r&b|trap soul,87,Drake,True,$ome $exy $ongs 4 U,album,2025-02-14,2kZoOj1n5vk9BuF0sih58M,2HPaUgqeutzr3jx5a9WyDV,Billboard Hot 100
-55,What It Sounds Like,94,250268,HUNTR/X,k-pop,88,EJAE|AUDREY NUNA|REI AMI|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,5sBDrrtLGbV64QJnEqfjer,2yNNYQBChuox9A5Ka93BIn,Billboard Hot 100
-56,Amen,77,197403,Shaboozey,,82,Jelly Roll,False,"Where I've Been, Isn't Where I'm Going: The Complete Edition",album,2025-04-25,2iSfSJrho5XkU2NmAnZ9ZV,3y2cIKLjiOlp1Np37WiUdH,Billboard Hot 100
-57,Azizam,93,162029,Ed Sheeran,soft pop,92,,False,Azizam,single,2025-04-04,0GRc3eGTg8HBdWLRGYgqIc,6eUKZXaKkcviH0Ku9w2n3V,Billboard Hot 100
-58,Free,94,187963,Rumi,,76,Jinu|EJAE|Andrew Choi|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,5DxDLsW6PsLz5gkwC7Mk5S,2DSE0PhxKUmTPLfZm13sup,Billboard Hot 100
-59,TN,70,185138,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,5wrvpATTwLAdxI9xNtezNM,4oUHIQIBe0LHzYfvXNW4QM,Billboard Hot 100
-60,On My Mind,87,189557,Alex Warren,,90,ROSÉ,False,On My Mind,single,2025-06-27,1tMRh8jiYlmatpVeWWesCe,0fTSzq9jAh4c36UVb4V7CB,Billboard Hot 100
-61,Indigo (feat. Avery Anna),87,286634,Sam Barber,country,78,Avery Anna,False,Restless Mind,album,2024-11-01,1KZG1H1OCugGqIRmk1wF9m,08GfvCW09pv2QP4y9sle2a,Billboard Hot 100
-62,WHIM WHAMIEE,77,141538,PLUTO,,66,YKNIECE,True,WHIM WHAMIEE,single,2025-02-03,4eULTkHVLAhn5J5DOSNbdP,4uqHgaeBynLBQgfhMEIm1G,Billboard Hot 100
-63,Dark Thoughts,87,136991,Lil Tecca,melodic rap|rap,86,,True,Dark Thoughts,single,2025-03-14,7EW7Yivb93qKAtp5qEm5of,4Ga1P7PMIsmqEZqhYZQgDo,Billboard Hot 100
-64,Takedown,94,182016,HUNTR/X,k-pop,88,EJAE|AUDREY NUNA|REI AMI|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,0MHStU0muAIEMbwdnebYu2,2yNNYQBChuox9A5Ka93BIn,Billboard Hot 100
-65,Hard Fought Hallelujah (with Jelly Roll),72,316002,Brandon Lake,worship|christian,77,Jelly Roll,False,Hard Fought Hallelujah (with Jelly Roll),single,2025-02-07,4cLC8gydI0O78g8chZugS4,1bdnGJxkbIIys5Jhk1T74v,Billboard Hot 100
-66,House Again,83,203822,Hudson Westbrook,country,74,,False,House Again,single,2024-10-18,16MeIVoFWTq2E0r6DwIek5,0C4gtx1iHMfuaQ73GKWvtZ,Billboard Hot 100
-67,Fix What You Didn't Break,70,201555,Nate Smith,country,73,,False,Fix What You Didn't Break,single,2024-08-23,0GJ8peTqHq9pu5Yf2vHjjX,4NYMUsIcUUsBHbV9DICa5x,Billboard Hot 100
-68,party 4 u,92,296653,Charli xcx,hyperpop|art pop,88,,False,how i'm feeling now,album,2020-05-15,2RdEC8Ff83WkX7kDVCHseE,25uiPmTg16RbhZWAqwLBy5,Billboard Hot 100
-69,YOUR WAY'S BETTER,77,198082,Forrest Frank,christian pop|christian hip hop|christian|worship|gospel r&b,80,,False,YOUR WAY'S BETTER,single,2024-10-25,4qrbjoNP9NZwe79Rg9IlFU,1scVfBymTr3CeZ4imMj1QJ,Billboard Hot 100
-70,Typa,75,124137,GloRilla,,83,,True,Typa,single,2025-06-06,08L2vgqPpiLt7PpwMHbbk1,2qoQgPAilErOKCwE2Y8wOG,Billboard Hot 100
-71,TU SANCHO,93,177994,Fuerza Regida,corrido|corridos tumbados|corridos bélicos|música mexicana|sierreño|banda|electro corridos|sad sierreño|dembow belico,94,,True,111XPANTIA,album,2025-05-02,6eLQXa6uk2EW8drsiKbABZ,0ys2OFYzWYB5hRDLCsBqxt,Billboard Hot 100
-72,I'm A Little Crazy,75,199060,Morgan Wallen,country,95,,False,I'm A Little Crazy,single,2025-03-21,7igCS2ZsfV7bvxuhF4XgiQ,4oUHIQIBe0LHzYfvXNW4QM,Billboard Hot 100
-73,RATHER LIE (with The Weeknd),85,209680,Playboi Carti,rage rap,90,The Weeknd,True,MUSIC,album,2025-03-14,68qeaZhtMZ6abrJCYt6nQn,699OTQXzgjhIYAHMy9RyPD,Billboard Hot 100
-74,Bottle Rockets (feat. Hootie & The Blowfish),73,235773,Scotty McCreery,country|acoustic country,66,Hootie & The Blowfish,False,Bottle Rockets (feat. Hootie & The Blowfish),single,2025-05-15,5Xl87hTgoBbSnEXKNse77Q,6ZV6lGY0prbqpTD0Md8i29,Billboard Hot 100
-75,Marlboro Rojo,92,184173,Fuerza Regida,corrido|corridos tumbados|corridos bélicos|música mexicana|sierreño|banda|electro corridos|sad sierreño|dembow belico,94,,True,111XPANTIA,album,2025-05-02,3hpm0fTeSqlhJbnqAgaLZs,0ys2OFYzWYB5hRDLCsBqxt,Billboard Hot 100
-76,Bloodline (with Jelly Roll),91,182008,Alex Warren,,90,Jelly Roll,False,Bloodline (with Jelly Roll),single,2025-05-22,0qmhTHMVxnXRmT5N92wTD9,0fTSzq9jAh4c36UVb4V7CB,Billboard Hot 100
-77,Home (feat. Shaboozey),78,135133,BigXthaPlug,southern hip hop,84,Shaboozey,True,Home (feat. Shaboozey),single,2025-06-27,7LaLY7dkzWEtmtJ8o7oD05,6qxpnaukVayrQn6ViNvu9I,Billboard Hot 100
-78,peekaboo (feat. azchike),83,155917,Kendrick Lamar,hip hop|west coast hip hop,95,AZ Chike,True,GNX,album,2024-11-22,2Uts1QFB4u2YNIMiqcb4de,2YZyLoL8N0Wb9xBt1NhZWg,Billboard Hot 100
-79,Dark Til Daylight,67,235566,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,0DlaIUTa0Ng1hOM1wcFcZe,4oUHIQIBe0LHzYfvXNW4QM,Billboard Hot 100
-80,LATINA FOREVA,85,159522,KAROL G,reggaeton|latin|urbano latino,94,,True,Tropicoqueta,album,2025-06-20,2KrQbq3aqGOFGnkTKnN2XA,790FomKkXshlbRYZFtlgla,Billboard Hot 100
-81,Folded,87,238120,Kehlani,,80,,False,Folded,single,2025-06-11,0bxPRWprUVpQK0UFcddkrA,0cGUm45nv7Z6M6qdXYQGTX,Billboard Hot 100
-82,FWU,84,171000,Don Toliver,,89,Mustard,True,FWU,single,2025-06-27,1NpHJ96ljWvqdbjlyc9GtT,4Gso3d4CscCijv0lmajZWs,Billboard Hot 100
-83,twilight zone,79,198320,Ariana Grande,pop,93,,False,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,1UrwJzlNC2oaTlxj1OZmcu,66CXWjxzNUsdJxJ2JdwvnR,Billboard Hot 100
-84,OWA OWA,84,132380,Lil Tecca,melodic rap|rap,86,,True,OWA OWA,single,2025-05-30,5E3XPRJVgYnxhMAFI7nZ7N,4Ga1P7PMIsmqEZqhYZQgDo,Billboard Hot 100
-85,What Was That,83,209286,Lorde,,87,,False,Virgin,album,2025-06-27,7hGCCQkdyF1MX6uk339uBS,163tK9Wjr9P9DmM0AVK7lm,Billboard Hot 100
-86,Single Again,63,179050,Josh Ross,country,68,,False,Single Again,single,2024-01-12,2fKAG7MnnFDrQERDAzSztc,1ZGTSMjK1D2HrpPTOh916U,Billboard Hot 100
-87,Gabriela,93,197226,KATSEYE,k-pop,84,,False,Gabriela,single,2025-06-20,1xOqGUkyxGQRdCvGpvWKmL,3c0gDdb9lhnHGFtP4prQpn,Billboard Hot 100
-88,EoO,93,204768,Bad Bunny,reggaeton|trap latino|urbano latino|latin,100,,True,DeBÍ TiRAR MáS FOToS,album,2025-01-05,6J5kc12BW5HuP3d7C3vvx8,4q3ewBCX7sLwd24euuV69X,Billboard Hot 100
-89,WENT WEST,78,156083,BabyChiefDoit,chicago drill,70,,True,WENT WEST,single,2025-06-27,4QBxmb7GTU73cz9asr88Hj,1J1pGfTqp5ReVIX8Z1Wzsg,Billboard Hot 100
-90,Nice To Meet You,82,176000,Myles Smith,,80,,False,A Minute...,single,2024-11-08,726SEjbF3ToEbYbn43gnxl,3bO19AOone0ubCsfDXDtYt,Billboard Hot 100
-91,Bodies (with JID),74,178708,Offset,,80,JID,True,Bodies (with JID),single,2025-06-20,2PcZiMr9bRNtRikrN7s6bL,4DdkRBBYG6Yk9Ka8tdJ9BW,Billboard Hot 100
-92,This Heart,64,186973,Corey Kent,country|texas country,66,,False,This Heart,single,2024-01-26,1KtQmheytoTI6kOM8yCowf,3sUpZrkehiGBaMzs2h9Mmc,Billboard Hot 100
-93,Thought It Was Love,82,246141,Ty Myers,country,73,,False,The Select,album,2025-01-24,4fVoX6BG2jFhPx6uHKevpF,1Gh0pCAxpjw0Iq3JMoVAwO,Billboard Hot 100
-94,Touch Me Like a Gangster,82,163930,Jessie Murph,,82,,True,Touch Me Like a Gangster,single,2025-06-06,6fYcQVXEuqmyS3HqSZ6rTd,2yLzlEFtIS0Q9UkyBZdQA7,Billboard Hot 100
-95,Went Legit,76,140487,G Herbo,chicago drill|drill,73,,True,Greatest Rapper Alive,album,2025-04-09,4IlbjcbLvNQEzmCI2eXVLP,5QdEbQJ3ylBnc3gsIASAT5,Billboard Hot 100
-96,Gnarly,91,137316,KATSEYE,k-pop,84,,True,Gnarly,single,2025-04-30,1j15Ar0qGDzIR0v3CQv3JL,3c0gDdb9lhnHGFtP4prQpn,Billboard Hot 100
-97,ME JALO,90,212002,Fuerza Regida,corrido|corridos tumbados|corridos bélicos|música mexicana|sierreño|banda|electro corridos|sad sierreño|dembow belico,94,Grupo Frontera,True,MALA MÍA,single,2024-12-19,3D24ErT1MMmUfXWotSj2A2,0ys2OFYzWYB5hRDLCsBqxt,Billboard Hot 100
-98,Better Me For You (Brown Eyes),84,194120,Max McNown,,76,,False,Night Diving,album,2025-01-24,4Iu73sdCNxZXZUIyClMoPZ,340PS4ZcZ4UCBgyrXzEjcp,Billboard Hot 100
-99,Bar None,77,173064,Jordan Davis,country,76,,False,Bar None,single,2025-03-28,212xtcXoSqbbwFAYd0zvNP,77kULmXAQ6vWer7IIHdGzI,Billboard Hot 100
-100,Eyes Are Closed,58,197188,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,6Yjm10YPDiYGD3R3Qwoe13,4oUHIQIBe0LHzYfvXNW4QM,Billboard Hot 100
-1,I Adore You (feat. Daecolm),91,214000,HUGEL,latin house|afro house|techengue,83,Topic|Arash|Daecolm,False,I Adore You (feat. Daecolm),single,2024-07-19,5nPbKG04fhLkIAjcPFaZq7,5PlfkPxwCpRRWQJBxCa0By,Shazam Top 200
-2,Beautiful People,88,187086,David Guetta,edm|dance,91,Sia,False,Beautiful People,single,2025-03-07,4TwEdnSiTPDR1vg1QZ5K8W,1Cs0zKBU1kc0i8ypK3B9ai,Shazam Top 200
-3,Feel Your Body,44,199300,Greesha,,41,,False,Feel Your Body,single,2025-05-20,63tLVzw9MvG3cNDpxEQOSy,5fS0GQkGtikaiDKLhwV3sJ,Shazam Top 200
-4,Bad Dreams - HUGEL Remix,73,182875,Teddy Swims,,88,HUGEL,False,Bad Dreams (HUGEL Remix),single,2025-04-11,2s2NJlQfNF77nQcQvb4sBk,33qOK5uJ8AR2xuQQAhHump,Shazam Top 200
-5,Anxiety,89,249302,Doechii,,83,,True,Anxiety,single,2025-03-05,1musbempyJAw5gfSKZHXP9,4E2rKHVDssGJm2SCDOMMJB,Shazam Top 200
-6,Afraid of the dark,44,262509,ISEEDAWNTHERE,,27,Enzo Calabria,False,Afraid of the dark,single,2025-01-14,4UrjKouKmgSn3ZxLKTjMXW,7l3g9Jim8GqqqEvG74AIGm,Shazam Top 200
-7,Dance Monkey,51,170587,Refeci,,47,Michel Fannoun,False,Dance Monkey,single,2020-02-07,29Wcsq14RbRqItlK0fmEDb,1NTljmDof9yJq0kaRsAucp,Shazam Top 200
-8,Eyes Never Lie,46,168000,Greesha,,41,,False,Eyes Never Lie,single,2022-08-12,0PnrGlgT8quFXnRAAcrQVP,5fS0GQkGtikaiDKLhwV3sJ,Shazam Top 200
-9,Kisses Back,56,222629,Anthony Keyrouz,slap house,61,,False,Kisses Back,single,2020-01-24,6uzwiQa5FkiiHLyt7ENYc6,0y4czH6DnvpftiSoy7V3HY,Shazam Top 200
-10,Loosen Up,42,194000,Enaque & Nujord,afro house,26,,False,Wild Essence,album,2025-05-06,7Go3FoHOoLxdB9Z9gM1VjQ,4oz49kHEU7DGiYc0rBZUVu,Shazam Top 200
-11,Nothing Hurts,48,154378,Minelli,,54,,False,Nothing Hurts,single,2021-11-12,4GYrzbpECD4D2UR4CWvN1V,5T0j6On1EthT2QVNXh8vqc,Shazam Top 200
-12,Azizam,93,162029,Ed Sheeran,soft pop,92,,False,Azizam,single,2025-04-04,0GRc3eGTg8HBdWLRGYgqIc,6eUKZXaKkcviH0Ku9w2n3V,Shazam Top 200
-13,Pretty Little Lies,40,177455,Hunter Falls,,33,,True,Pretty Little Lies,single,2025-05-20,6XZp7zBGQUjRwnaIlwqb1z,1eYaa3AJoGw6LVJNi5XSNZ,Shazam Top 200
-14,Ordinary,96,186964,Alex Warren,,90,,False,Ordinary,single,2025-02-07,6qqrTXSdwiJaq8SO0X2lSe,0fTSzq9jAh4c36UVb4V7CB,Shazam Top 200
-15,Lay Low,77,153442,Tiësto,edm|trance|big room|house|dance,85,,False,Lay Low,single,2023-01-06,0zKbDrEXKpnExhGQRe9dxt,2o5jDhtHVPhrJdv3cEQ99Z,Shazam Top 200
-16,Move,89,177598,Adam Port,afro house|house,79,Stryv|Keinemusik|Orso|Malachiii,False,Move,single,2024-06-07,1BJJbSX6muJVF2AK7uH1x4,2loEsOijJ6XiGzWYFXMIRk,Shazam Top 200
-17,Down For The Ride,0,193208,Greesha,,41,,False,Down For The Ride,single,2025-03-06,7ozZcRFdoae8p9Oi6lNLvO,5fS0GQkGtikaiDKLhwV3sJ,Shazam Top 200
-18,Shake It To The Max (FLY) - Remix,94,178775,MOLIY,alté,82,Silent Addy|Skillibeng|Shenseea,True,Shake It To The Max (FLY) (Remix),single,2025-02-21,0QCIpQV3twfqo9kh0t8Zza,2hVWBpjLW4Q7fboYz2pVYK,Shazam Top 200
-19,Famax - Edit,77,213768,RAFFA GUIDO,afro house|latin house|techengue,64,,False,Famax,single,2024-02-23,1P9ZF3ZxRWNTDgJkZOgkI9,5zvKbKHQcyZFvTYADnEkTQ,Shazam Top 200
-20,Disappear,30,193548,Silkky,,14,,False,Disappear,single,2025-06-13,3FV5iVMn7zwM74x64PIgOb,05bRFv6yddq035eQbmC0P4,Shazam Top 200
-21,Die With A Smile,97,251667,Lady Gaga,art pop|pop,93,Bruno Mars,False,Die With A Smile,single,2024-08-16,2plbrEY59IikOBgBGLjaoe,1HY2Jd0NmPuamShAr6KMms,Shazam Top 200
-22,PAIN,42,198586,Hunter Falls,,33,,False,PAIN,single,2021-07-02,7fx6q8aZ1RII2cHbKrjhXC,1eYaa3AJoGw6LVJNi5XSNZ,Shazam Top 200
-23,Mwaki,79,208135,Zerb,afro house,75,Sofiya Nzau,False,SURRENDER,single,2023-10-27,5KTZgG84bKFGm53lhLtTqc,6mDl7lQiLxT0iQ8LYhAlWy,Shazam Top 200
-24,"Good Luck, Babe!",93,218423,Chappell Roan,,86,,False,"Good Luck, Babe!",single,2024-04-05,0WbMK4wrZ1wFSty9F7FCgu,7GlBOeep6PqTfFi59PTUUN,Shazam Top 200
-25,PASSO BEM SOLTO - Slowed,91,116072,ATLXS,phonk|brazilian phonk,82,,False,PASSO BEM SOLTO,single,2024-04-23,4sTlQPMyoFMPdhAJvErBN3,5SCDfg1YoEfI5gFtXqEWah,Shazam Top 200
-26,Still Into You,82,151875,CYRIL,,82,maryjo,False,Still Into You,single,2024-10-25,0GYx8Q9iS05CRe9kyzwAIL,11kt6ggsdxvI8MhyeSMKom,Shazam Top 200
-27,Piece Of Your Heart,40,186071,Hunter Falls,,33,,False,Piece Of Your Heart,single,2023-10-27,49bD3AHFWufH3iijgqT7om,1eYaa3AJoGw6LVJNi5XSNZ,Shazam Top 200
-28,Tattoo,84,183374,Loreen,europop,71,,False,Tattoo,single,2023-02-25,1DmW5Ep6ywYwxc2HMT5BG6,49aaHxvAJ0tCh0F15OnwIl,Shazam Top 200
-29,The Sound of Silence - CYRIL Remix,68,185238,Disturbed,metal|nu metal|alternative metal|rap metal|hard rock|rock,78,CYRIL,False,The Sound of Silence (CYRIL Remix),single,2024-02-02,32aeRhnsILUPSbPiH5x62t,3TOqt5oJwL9BE2NG9MEwDa,Shazam Top 200
-30,Strangers,80,172964,Kenya Grace,,66,,False,Strangers,single,2023-09-01,5mjYQaktjmjcMKcUIcqz4s,7uMDnSZyUYNBPLhPMNuaM2,Shazam Top 200
-31,Creepin' (with The Weeknd & 21 Savage),84,221520,Metro Boomin,,88,The Weeknd|21 Savage,True,HEROES & VILLAINS,album,2022-12-02,2dHHgzDwk4BJdRwy9uXhTO,0iEtIxbK0KxaSlF7G42ZOp,Shazam Top 200
-32,i like the way you kiss me,85,142514,Artemas,,77,,False,i like the way you kiss me,single,2024-03-19,2GxrNKugF82CnoRFbQfzPf,0PCCGZ0wGLizHt2KZ7hhA2,Shazam Top 200
-33,Shake Body,77,208979,Skales,afrobeats|afrobeat|azonto|afropop|bongo flava,61,,False,Man of the Year,album,2015-05-18,1agLiWjSBYSTsKZLudOunC,1ixqGowpDM21RwyJmJ7hpv,Shazam Top 200
-34,Ease your mind,45,181496,Greesha,,41,,False,Ease your mind,single,2023-12-25,5IxNdxr9twtwgooFKSX263,5fS0GQkGtikaiDKLhwV3sJ,Shazam Top 200
-35,When We Were Young (The Logical Song),76,147432,David Guetta,edm|dance,91,Kim Petras,False,When We Were Young (The Logical Song),single,2023-11-10,1CcLA0eaauck34YEIrvAAq,1Cs0zKBU1kc0i8ypK3B9ai,Shazam Top 200
-36,Don't Be so Shy - Filatov & Karas Remix,48,192055,Imany,,61,Filatov & Karas,False,Don't Be So Shy (Filatov & Karas Remix),single,2016-10-06,4mkMj5SPMC112y5TvqNee6,74eY8wbrhhVD7pACbBHwHw,Shazam Top 200
-37,The Door - CYRIL Remix,83,210476,Teddy Swims,,88,CYRIL,False,The Door (CYRIL Remix),single,2024-07-26,6VD3T09spn64tjPcBih64P,33qOK5uJ8AR2xuQQAhHump,Shazam Top 200
-38,Stay The Night,38,172101,Hunter Falls,,33,,False,Stay The Night,single,2022-01-06,4diGen3EqgJn8Kl1iql4mk,1eYaa3AJoGw6LVJNi5XSNZ,Shazam Top 200
-39,Prada,83,132359,cassö,hypertechno,68,RAYE|D-Block Europe,True,Prada,single,2023-08-11,59NraMJsLaMCVtwXTSia8i,5wCmhq5J2hPwL2r0eKurxn,Shazam Top 200
-40,Alibi (feat. Rudimental),77,184852,Ella Henderson,,73,Rudimental,False,Alibi (feat. Rudimental),single,2024-01-12,5Jpz4nv8nA6FIYO5gEyQa2,7nDsS0l5ZAzMedVRKPP8F1,Shazam Top 200
-41,Show Me Love,94,176965,WizTheMc,,79,bees & honey,False,Show Me Love,single,2025-02-07,5ITV0zqzjOYfFWpW0xBmRa,3ebS2RuCq8QeLyndUDmgB5,Shazam Top 200
-42,Alibi (with Pabllo Vittar & Yseult),83,161655,Sevdaliza,,74,Pabllo Vittar|Yseult,False,Alibi (with Pabllo Vittar & Yseult),single,2024-06-28,5496lks6V3fh1mZAB6IAap,5MraexJKZDrQYzS98kNwie,Shazam Top 200
-43,NOW YOU'RE GONE,44,195121,Greesha,,41,,False,NOW YOU'RE GONE,single,2024-05-21,6p55FiUeSkuMCD6toezHsw,5fS0GQkGtikaiDKLhwV3sJ,Shazam Top 200
-44,Move Me,59,140000,Lavern,stutter house,65,,False,Move Me,single,2021-02-17,6LptEwO1ObZvVQXlU0BPIJ,03y4yOxhLk6MDJ1bV424uO,Shazam Top 200
-45,Baby Don't Hurt Me,83,140017,David Guetta,edm|dance,91,Anne-Marie|Coi Leray,False,Baby Don't Hurt Me,single,2023-04-06,3BKD1PwArikchz2Zrlp1qi,1Cs0zKBU1kc0i8ypK3B9ai,Shazam Top 200
-46,Starboy,92,230453,The Weeknd,,97,Daft Punk,True,Starboy,album,2016-11-25,7MXVkk9YMctZqd1Srtv4MB,1Xyo4u8uXC1ZmMpatF05PJ,Shazam Top 200
-47,Flowers,89,200600,Miley Cyrus,,86,,False,Endless Summer Vacation,album,2023-08-18,7DSAEUvxU8FajXtRloy8M0,5YGY8feqx7naU7z4HrwZM6,Shazam Top 200
-48,Thank You (Not So Bad),86,140000,Dimitri Vegas & Like Mike,big room|electronica|edm|electro,75,Tiësto|Dido|W&W|Dimitri Vegas|Like Mike,False,Thank You (Not So Bad),single,2023-12-01,09CnYHiZ5jGT1wr1TXJ9Zt,73jBynjsVtofjRpdpRAJGk,Shazam Top 200
-49,Where Are You Now,81,149066,Lost Frequencies,tropical house,81,Calum Scott,False,All Stand Together,album,2023-11-10,3mfER4ORePHvN35cbZ3dkV,7f5Zgnp2spUuuzKplmRkt7,Shazam Top 200
-50,Calm Down (with Selena Gomez),84,239317,Rema,afrobeats|afrobeat|afropop|afropiano,80,Selena Gomez,False,Calm Down (with Selena Gomez),single,2022-08-25,0WtM2NBVQNNJLh6scP13H8,46pWGuE3dSwY3bMMXGBvVS,Shazam Top 200
-51,Dance The Night - From Barbie The Album,84,176579,Dua Lipa,pop,90,,False,Dance The Night (From Barbie The Album),single,2023-05-25,1vYXt7VSjH9JIM5oRRo7vA,6M2wZ9GZgrQXHCFfjv46we,Shazam Top 200
-52,Lose Control,84,210688,Teddy Swims,,88,,False,Lose Control,single,2023-06-23,6usohdchdzW9oML7VC4Uhk,33qOK5uJ8AR2xuQQAhHump,Shazam Top 200
-53,Baila,43,192085,Greesha,,41,,False,Baila,single,2023-05-07,5Jy8BOHA6a3v36bZFVHA9c,5fS0GQkGtikaiDKLhwV3sJ,Shazam Top 200
-54,Because You Move Me,79,196375,Tinlicker,melodic house|progressive house|melodic techno,67,Helsloot,False,Because You Move Me,single,2017-07-31,05GvwwTLLID738BbKN1ze0,5EmEZjq8eHEC6qFnT63Lza,Shazam Top 200
-55,Lady - Hear Me Tonight,84,307153,Modjo,french house|disco house,68,,False,Modjo (Remastered),album,2001,49X0LAl6faAusYq02PRAY6,0AkpPlFLnr0VQwZQeMGht0,Shazam Top 200
-56,Addicted,83,152250,Zerb,afro house,75,The Chainsmokers|Ink,True,Addicted,single,2024-03-29,5ZUIPLoTLJZrPQh2kFZEUM,6mDl7lQiLxT0iQ8LYhAlWy,Shazam Top 200
-57,Ride It,80,157605,Regard,,68,,False,Ride It,single,2019-07-26,2tnVG71enUj33Ic2nFN6kZ,4ofCBoyEiGSePFAG500xev,Shazam Top 200
-58,Prayer in C - Robin Schulz Radio Edit,80,189413,Lilly Wood and The Prick,french indie pop,67,Robin Schulz,False,Prayer in C,single,2014-05-16,5fnA9mkIfScSqHIpeDyvck,50OApTJurDusIo9dGTqSU4,Shazam Top 200
-59,Secrets,70,176766,Regard,,68,RAYE,True,Secrets,single,2020-04-24,66W1rVTnEv86dIkFhoiElg,4ofCBoyEiGSePFAG500xev,Shazam Top 200
-60,Memories (feat. Kid Cudi) - 2021 Remix,73,162992,David Guetta,edm|dance,91,Kid Cudi,True,Memories (feat. Kid Cudi) [2021 Remix],single,2021-01-08,59o6ojGNGJOYiVJSzC6Lsa,1Cs0zKBU1kc0i8ypK3B9ai,Shazam Top 200
-61,Another Try,32,223396,Greesha,,41,Amy Tjasink,False,Another Try,single,2020-12-31,5aTVPg6oRV3AfLyHIAQ35n,5fS0GQkGtikaiDKLhwV3sJ,Shazam Top 200
-62,I Follow Rivers - The Magician Remix,74,280069,Lykke Li,,72,The Magician,False,I Follow Rivers (The Magician Remix),single,2011-10-10,4Jv7lweGIUOFQ7Oq2AtAh9,6oBm8HB0yfrIc9IHbxs6in,Shazam Top 200
-63,Stumblin' In,88,213363,CYRIL,,82,,False,Stumblin' In,single,2023-11-10,0h3Xy4V4apMraB5NuM8U7Z,11kt6ggsdxvI8MhyeSMKom,Shazam Top 200
-64,Over the clouds,37,214380,viraltopviral,,19,,False,Over the clouds,single,2023-03-08,3uUSnSGEWxwvB6CxNwOHMR,7dEoRIQTipIQS76x2DEinP,Shazam Top 200
-65,Overdrive (feat. Norma Jean Martine),81,155905,Ofenbach,,72,Norma Jean Martine,False,Overdrive (feat. Norma Jean Martine),single,2023-10-06,3bK1zVFBKIzYjmptmI4NsJ,4AKwRarlmsUlLjIwt38NLw,Shazam Top 200
-66,Makeba - Ian Asher Remix,73,125178,Jain,french pop,63,Ian Asher,False,Makeba (Ian Asher Remix),single,2023-01-13,67eYAnkdTu8BMcIx29z26L,2HHmvvSQ44ePDH7IKVzgK0,Shazam Top 200
-67,Pedro,80,144846,Jaxomy,,64,Agatino Romero|Raffaella Carrà,False,Pedro,single,2024-03-29,48lxT5qJF0yYyf2z4wB4xW,1c3uso4iIeeX3P0bhKaQDq,Shazam Top 200
-68,Don't Play,42,188365,Greesha,,41,,False,Don't Play,single,2022-04-21,3v6L4rvL2nEq5sZ8VvzMZ7,5fS0GQkGtikaiDKLhwV3sJ,Shazam Top 200
-69,Be My Lover (feat. La Bouche) - 2023 Mix,78,169523,Hypaton,,68,David Guetta|La Bouche,False,Be My Lover (feat. La Bouche) [2023 Mix],single,2023-04-21,2aQpISWUBToaF84DDiTeRV,5GYaRwCWwhU6SIQrQ5G3b7,Shazam Top 200
-70,ITALODISCO,73,199512,The Kolors,italo dance|italo disco,65,,False,ITALODISCO,single,2023-05-05,3QAU2pj4LUKf7yaTgANlQV,72A0Z8q8NiochyK9gUHpCR,Shazam Top 200
-71,Live Without Love,30,190476,Shouse,,69,David Guetta,False,Live Without Love (David Guetta Remix),single,2023-06-16,2kMhcbfB3OcA8IMUnEYaWF,2TcGJdSOiOvITBzhvfX8XB,Shazam Top 200
-72,Way down We Go,85,213706,KALEO,,73,,False,A/B,album,2016-06-10,0y1QJc3SJVPKJ1OvFmFqe6,7jdFEYD2LTYjfwxOdlVjmc,Shazam Top 200
-73,BIRDS OF A FEATHER,99,210373,Billie Eilish,,95,,False,HIT ME HARD AND SOFT,album,2024-05-17,6dOtVTDdiauQNBQEDOtlAB,6qqNVTkY8uBg9cP3Jd7DAH,Shazam Top 200
-74,Who,90,170887,Jimin,k-pop,83,,False,MUSE,album,2024-07-19,7tI8dRuH2Yc6RuoTjxo4dU,1oSPZhvZMIrWW5I41kPkkY,Shazam Top 200
-75,Espresso,90,175459,Sabrina Carpenter,,92,,True,Short n' Sweet,album,2024-08-23,2HRqTpkrJO5ggZyyK6NPWz,74KM79TiuVKeVCqs8QtB0B,Shazam Top 200
-76,Big Dawgs,83,190666,Hanumankind,malayalam hip hop|desi hip hop,70,Kalmi,True,Big Dawgs,single,2024-07-09,0OA00aPt3BV10qeMIs3meW,4nVa6XlBFlIkF6msW57PHp,Shazam Top 200
-77,For Life (feat. Nile Rodgers),74,175803,Kygo,tropical house,82,Zak Abel|Nile Rodgers,False,For Life (feat. Nile Rodgers),single,2024-04-19,4QfikoJtCEiOj7G5R9m3sP,23fqKkggKUBHNkbKtXEls4,Shazam Top 200
-78,BLUE,52,167858,Tiësto,edm|trance|big room|house|dance,85,Stevie Appleton,False,BLUE,single,2019-12-13,79Vz5MNH7Qe4F7hPKT8tPz,2o5jDhtHVPhrJdv3cEQ99Z,Shazam Top 200
-79,Sailor Song,91,211978,Gigi Perez,,80,,False,Sailor Song,single,2024-07-26,2262bWmqomIaJXwCRHr13j,1iCnM8foFssWlPRLfAbIwo,Shazam Top 200
-80,Substitution (feat. Julian Perretta),73,181477,Purple Disco Machine,disco house|nu disco|funky house|house,75,Kungs|Julian Perretta,False,Substitution (feat. Julian Perretta),single,2023-03-30,2F2p7b5Xq20mRyEeWYaeUF,2WBJQGf1bT1kxuoqziH5g4,Shazam Top 200
-81,That’s So True,95,166300,Gracie Abrams,,87,,True,The Secret of Us (Deluxe),album,2024-10-18,7ne4VBA60CxGM75vw0EYad,4tuJ0bMpJh08umKkEXKUI5,Shazam Top 200
-82,Human,60,133636,Lavern,stutter house,65,,False,Human,single,2023-10-13,6Kl0BmROA5CAwtQOEFd99y,03y4yOxhLk6MDJ1bV424uO,Shazam Top 200
-83,Where Are You Now,82,148197,Lost Frequencies,tropical house,81,Calum Scott,False,Where Are You Now,single,2021-07-30,3uUuGVFu1V7jTQL60S1r8z,7f5Zgnp2spUuuzKplmRkt7,Shazam Top 200
-84,It Don’t Matter,52,170847,Alok,brazilian bass|electronic|slap house|electro house,80,Sofi Tukker|INNA,False,Annual 2021,compilation,2021-12-24,0cnFCOB8DxHmRLPjmgtptA,0NGAZxHanS9e0iNHpR8f2W,Shazam Top 200
-85,Messy,89,284066,Lola Young,,82,,True,This Wasn't Meant For You Anyway,album,2024-06-21,35ISBknsCeZQtq66xABI9g,67FB4n52MgexGQIG8s0yUH,Shazam Top 200
-86,Abracadabra,89,223398,Lady Gaga,art pop|pop,93,,False,Abracadabra,single,2025-02-03,5ZLUm9eab8y3tqQ1OhQSHI,1HY2Jd0NmPuamShAr6KMms,Shazam Top 200
-87,The Sound of Silence - CYRIL Remix,86,185238,Disturbed,metal|nu metal|alternative metal|rap metal|hard rock|rock,78,CYRIL,False,The Sound of Silence (CYRIL Remix),single,2024-02-02,1LY3GhF0zxIVgbYEQjCbUO,3TOqt5oJwL9BE2NG9MEwDa,Shazam Top 200
-88,The Door,89,212648,Teddy Swims,,88,,False,I've Tried Everything But Therapy (Part 1),album,2023-09-15,3dj4wgM3cPeuLwMNHDuBon,33qOK5uJ8AR2xuQQAhHump,Shazam Top 200
-89,APT.,88,169917,ROSÉ,k-pop,85,Bruno Mars,False,rosie,album,2024-12-06,4wJ5Qq0jBN4ajy7ouZIV1c,3eVa5w3URK5duf6eyVDbu9,Shazam Top 200
-90,Whatever,82,178273,Kygo,tropical house,82,Ava Max,False,Whatever,single,2024-01-19,0LMwmV37RCmBO2so0szAFs,23fqKkggKUBHNkbKtXEls4,Shazam Top 200
-91,The Feeling,72,153449,Lost Frequencies,tropical house,81,Bonn,False,The Feeling,single,2023-06-09,6W9qtw3ddhkYznaOxB50p8,7f5Zgnp2spUuuzKplmRkt7,Shazam Top 200
-92,Endless Summer,58,187040,Alan Walker,,82,Zak Abel,True,Endless Summer,single,2023-07-13,2DVvsgWrZ4rUjupdRGYEXK,7vk5e3vY1uw9plTHJAMwjN,Shazam Top 200
-93,Training Season,78,209487,Dua Lipa,pop,90,,False,Training Season,single,2024-02-15,6Qb7YsAqH4wWFUMbGsCpap,6M2wZ9GZgrQXHCFfjv46we,Shazam Top 200
-94,Dance The Night,72,176579,Dua Lipa,pop,90,,False,Barbie The Album,compilation,2023-07-21,11C4y2Yz1XbHmaQwO06s9f,6M2wZ9GZgrQXHCFfjv46we,Shazam Top 200
-95,Bones,79,165264,Imagine Dragons,,90,,False,Bones,single,2022-03-11,0HqZX76SFLDz2aW8aiqi7G,53XhwfbYqKCa1cC15pYq2q,Shazam Top 200
-96,"Better Off (Alone, Pt. III)",77,151702,Alan Walker,,82,Dash Berlin|Vikkstar,False,Walkerworld,album,2023-11-10,0SML6wWerD0yI2Xd4OUC1R,7vk5e3vY1uw9plTHJAMwjN,Shazam Top 200
-97,Won't Forget You,55,398663,Shouse,,69,,False,Won't Forget You,single,2022-02-04,08DprFlcwlc5zny9ErPkHG,2TcGJdSOiOvITBzhvfX8XB,Shazam Top 200
-98,Desire (with Sam Smith),74,179161,Calvin Harris,edm,90,Sam Smith,False,Desire (with Sam Smith),single,2023-07-28,22dUzMFttcR3uU17NcOAIv,7CajNmpbOovFoOoasH2HaY,Shazam Top 200
-99,One in a Million,68,160529,Bebe Rexha,,80,David Guetta,False,One in a Million,single,2023-08-04,3YfGTvsTAWGC2lgoDOikUz,64M6ah0SkkRsnPGtGiRAbb,Shazam Top 200
-100,APT.,94,169917,ROSÉ,k-pop,85,Bruno Mars,False,APT.,single,2024-10-18,5vNRhkKd0yEAg8suGBpjeY,3eVa5w3URK5duf6eyVDbu9,Shazam Top 200
+top,track_name,track_popularity,duration_ms,artist_name,artist_genres,artist_popularity,feats,explicit,album,type,relase_date,track_id,artist_id
+1,Ordinary,96,186964,Alex Warren,,90,,False,Ordinary,single,2025-02-07,6qqrTXSdwiJaq8SO0X2lSe,0fTSzq9jAh4c36UVb4V7CB
+2,What I Want (feat. Tate McRae),75,184517,Morgan Wallen,country,95,Tate McRae,False,I’m The Problem,album,2025-05-16,48NthgcgfoRrWT8LtgW28A,4oUHIQIBe0LHzYfvXNW4QM
+3,Just In Case,83,166206,Morgan Wallen,country,95,,False,Just In Case,single,2025-03-21,02Ya2Q08bBKFqUJvjmyRXK,4oUHIQIBe0LHzYfvXNW4QM
+4,A Bar Song (Tipsy),88,171291,Shaboozey,,82,,True,A Bar Song (Tipsy),single,2024-04-12,2FQrifJ1N335Ljm3TjTVVf,3y2cIKLjiOlp1Np37WiUdH
+5,I'm The Problem,79,177811,Morgan Wallen,country,95,,False,I'm The Problem,single,2025-01-31,3HlWVKwU0JqJXqJK9DWHnZ,4oUHIQIBe0LHzYfvXNW4QM
+6,luther (with sza),89,177598,Kendrick Lamar,hip hop|west coast hip hop,94,SZA,False,GNX,album,2024-11-22,45J4avUb9Ni0bnETYaYFVJ,2YZyLoL8N0Wb9xBt1NhZWg
+7,Manchild,98,213645,Sabrina Carpenter,,92,,True,Manchild,single,2025-06-05,42UBPzRMh5yyz0EDPr6fr1,74KM79TiuVKeVCqs8QtB0B
+8,Lose Control,84,210688,Teddy Swims,,88,,False,Lose Control,single,2023-06-23,6usohdchdzW9oML7VC4Uhk,33qOK5uJ8AR2xuQQAhHump
+9,Die With A Smile,96,251667,Lady Gaga,art pop|pop,93,Bruno Mars,False,Die With A Smile,single,2024-08-16,2plbrEY59IikOBgBGLjaoe,1HY2Jd0NmPuamShAr6KMms
+10,Pink Pony Club,90,258034,Chappell Roan,,86,,False,The Rise and Fall of a Midwest Princess,album,2023-09-22,1k2pQc5i348DCHwbn5KTdc,7GlBOeep6PqTfFi59PTUUN
+11,Beautiful Things,88,180304,Benson Boone,,89,,False,Beautiful Things,single,2024-01-18,6tNQ70jh4OwmPGpYy6R2o9,22wbnEMDvgVIAGdFeek6ET
+12,Love Me Not,90,213466,Ravyn Lenae,alternative r&b|indie soul,81,,False,Love Me Not / Love Is Blind,single,2024-05-03,1UNEuG9DYOWiikf00ayr52,5RTLRtXjbXI2lSXc6jxlAz
+13,I Had Some Help (Feat. Morgan Wallen),86,178205,Post Malone,,90,Morgan Wallen,True,I Had Some Help,single,2024-05-10,7221xIgOnuakPdLqT0F3nP,246dkjvS1zLTtiykXe5h60
+14,MUTT,80,193333,Leon Thomas,,78,,True,MUTT,single,2024-08-09,1mh9eHVRdNhzryG43PXdW1,0nnBZ8FXWjG9wZgM2cpfeb
+15,BIRDS OF A FEATHER,99,210373,Billie Eilish,,95,,False,HIT ME HARD AND SOFT,album,2024-05-17,6dOtVTDdiauQNBQEDOtlAB,6qqNVTkY8uBg9cP3Jd7DAH
+16,Espresso,90,175459,Sabrina Carpenter,,92,,True,Espresso,single,2024-04-12,2qSkIjg1o9h3YT9RAgYN75,74KM79TiuVKeVCqs8QtB0B
+17,Mystical Magical,90,165746,Benson Boone,,89,,False,Mystical Magical,single,2025-04-24,221eHga9f9Ne4f8D7WVgPT,22wbnEMDvgVIAGdFeek6ET
+18,weren't for the wind,79,193666,Ella Langley,country,78,,False,weren't for the wind,single,2024-10-04,4v9alNvEjLjvqo4LNWwswl,6BRxQ8cD3eqnrVj6WKDok8
+19,All The Way (feat. Bailey Zimmerman),87,165000,BigXthaPlug,southern hip hop,84,Bailey Zimmerman,True,All The Way (feat. Bailey Zimmerman),single,2025-04-04,73kIKvg65QWieOKXIwyLJP,6qxpnaukVayrQn6ViNvu9I
+20,NOKIA,92,241023,Drake,rap,99,,True,$ome $exy $ongs 4 U,album,2025-02-14,2u9S9JJ6hTZS3Vf22HOZKg,3TVXtAsR1Inumwj472S9r4
+21,I Got Better,62,204963,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,4GBNnoGf1FgsPtsgghZ381,4oUHIQIBe0LHzYfvXNW4QM
+22,Sorry I'm Here For Someone Else,85,156582,Benson Boone,,89,,False,Sorry I'm Here For Someone Else,single,2025-02-27,3x3K1RP3Zfi2qeMR8kyrNO,22wbnEMDvgVIAGdFeek6ET
+23,Golden,99,194607,HUNTR/X,k-pop,89,EJAE|AUDREY NUNA|REI AMI|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,1CPZ5BxNNd0n0nF4Orb9JS,2yNNYQBChuox9A5Ka93BIn
+24,Blue Strips,88,147209,Jessie Murph,,82,,False,Blue Strips,single,2025-04-11,7u7IqryLFAygWFz6bsEB7y,2yLzlEFtIS0Q9UkyBZdQA7
+25,Anxiety,89,249302,Doechii,,83,,True,Anxiety,single,2025-03-05,1musbempyJAw5gfSKZHXP9,4E2rKHVDssGJm2SCDOMMJB
+26,Outside,81,206711,Cardi B,,82,,True,Outside,single,2025-06-20,139nLHDFZNr3anx8CpUy7u,4kYSro6naA4h99UJvo89HB
+27,APT.,94,169917,ROSÉ,k-pop,84,Bruno Mars,False,APT.,single,2024-10-18,5vNRhkKd0yEAg8suGBpjeY,3eVa5w3URK5duf6eyVDbu9
+28,Worst Way,76,220558,Riley Green,country,80,,False,Worst Way,single,2024-03-29,4u2pk0zATUkEeMtuuMtu46,2QMsj4XJ7ne2hojxt6v5eb
+29,Good News,79,199209,Shaboozey,,82,,False,Good News,single,2024-11-15,54p6vNJwGkt4FTaM8SCsxt,3y2cIKLjiOlp1Np37WiUdH
+30,Love Somebody,83,204828,Morgan Wallen,country,95,,False,Love Somebody,single,2024-10-18,7hR22TOX3RorxJPcsz5Wbo,4oUHIQIBe0LHzYfvXNW4QM
+31,Your Idol,98,191537,Saja Boys,k-pop,84,Andrew Choi|Neckwav|Danny Chung|KEVIN WOO|samUIL Lee|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,1I37Zz2g3hk9eWxaNkj031,0BJ2EjOqcfgFvlZXNKrNbE
+32,30 For 30 (with Kendrick Lamar),84,278277,SZA,r&b,92,Kendrick Lamar,True,SOS Deluxe: LANA,album,2024-12-20,3aSWXU6owkZeVhh94XxEWO,7tYKF4w9nC0nq9CsPZTHyP
+33,undressed,96,182088,sombr,,88,,False,undressed,single,2025-03-21,4AajxCEwGEsmHmT4H1TwjY,4G9NDjRyZFDlJKMRL8hx3S
+34,back to friends,100,199032,sombr,,88,,False,back to friends,single,2024-12-27,0FTmksd2dxiE5e3rWyJXs6,4G9NDjRyZFDlJKMRL8hx3S
+35,Backup Plan (feat. Luke Combs),83,181518,Bailey Zimmerman,country,81,Luke Combs,False,Backup Plan (feat. Luke Combs),single,2025-05-02,58is1MxJ0mafkdwalyYanU,3win9vGIxFfBRag9S63wwf
+36,That’s So True,95,166300,Gracie Abrams,,87,,True,The Secret of Us (Deluxe),album,2024-10-18,7ne4VBA60CxGM75vw0EYad,4tuJ0bMpJh08umKkEXKUI5
+37,20 Cigarettes,60,160901,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,2fKPqAXWZmXcWiEVxqIuFD,4oUHIQIBe0LHzYfvXNW4QM
+38,Timeless (feat. Playboi Carti),47,256000,The Weeknd,,97,Playboi Carti,True,Timeless,single,2024-09-27,1Es7AUAhQvapIcoh3qMKDL,1Xyo4u8uXC1ZmMpatF05PJ
+39,Burning Blue,82,205724,Mariah the Scientist,alternative r&b,73,,False,Burning Blue,single,2025-05-02,0aWHb6ujnlXkmmOI1ltStc,7HO5fOXE4gh3lzZn64tX2E
+40,6 Months Later,84,182868,Megan Moroney,country,80,,False,6 Months Later,single,2025-06-20,4Km9FSF9iaQiTLnFPdbPom,5Ppie0uPnbnvGBYRwYmlt0
+41,Messy,90,284068,Lola Young,,82,,True,Messy,single,2024-05-30,3SKH53SPQbEnZR4cJPVaz2,67FB4n52MgexGQIG8s0yUH
+42,How It’s Done,96,176059,HUNTR/X,k-pop,89,EJAE|AUDREY NUNA|REI AMI|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,3RXUgPNIbUgFxsDWuBQEt6,2yNNYQBChuox9A5Ka93BIn
+43,The Giver,82,202768,Chappell Roan,,86,,False,The Giver,single,2025-03-13,5xHgo5JN0wfsV41HnRaos5,7GlBOeep6PqTfFi59PTUUN
+44,Shake It To The Max (FLY) - Remix,94,178775,MOLIY,alté,82,Silent Addy|Skillibeng|Shenseea,True,Shake It To The Max (FLY) (Remix),single,2025-02-21,0QCIpQV3twfqo9kh0t8Zza,2hVWBpjLW4Q7fboYz2pVYK
+45,After All The Bars Are Closed,76,191839,Thomas Rhett,country|acoustic country|pop country,79,,False,After All The Bars Are Closed,single,2024-08-09,0oBbkZuDLkT8DY9DK67kfr,6x2LnllRG5uGarZMsD4iO8
+46,Just Keep Watching (From F1® The Movie),95,142550,Tate McRae,,91,F1 The Album,False,Just Keep Watching (From F1® The Movie),single,2025-05-30,2yWlGEgEfPot0lv3OAjuG3,45dkTj5sMRSjrmBSBeiHym
+47,I Ain't Comin' Back (feat. Post Malone),79,175271,Morgan Wallen,country,95,Post Malone,False,I Ain't Comin' Back,single,2025-04-18,5ceKWhT3J34xxw5uzIzgU9,4oUHIQIBe0LHzYfvXNW4QM
+48,Sports car,84,165045,Tate McRae,,91,,False,Sports car,single,2025-01-24,2zOmS55knKWSgScYPTNmGQ,45dkTj5sMRSjrmBSBeiHym
+49,Soda Pop,96,150686,Saja Boys,k-pop,84,Andrew Choi|Neckwav|Danny Chung|KEVIN WOO|samUIL Lee|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,02sy7FAs8dkDNYsHp4Ul3f,0BJ2EjOqcfgFvlZXNKrNbE
+50,No One Noticed,93,236906,The Marías,bedroom pop,86,,False,Submarine,album,2024-05-31,3siwsiaEoU4Kuuc9WKMUy5,2sSGPbdZJkaSE2AbcGOACx
+51,WILDFLOWER,95,261466,Billie Eilish,,95,,False,HIT ME HARD AND SOFT,album,2024-05-17,3QaPy1KgI7nu9FJEQUgn6h,6qqNVTkY8uBg9cP3Jd7DAH
+52,Superman,57,188200,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,3JlQPeTJDdxR6yYfus8trX,4oUHIQIBe0LHzYfvXNW4QM
+53,Happen To Me,81,183615,Russell Dickerson,country,70,,False,Happen To Me,single,2025-02-21,64KV9vjChfN2w9vA4j7A2K,1E2AEtxaFaJtH0lO7kgNKw
+54,SOMEBODY LOVES ME,82,182767,PARTYNEXTDOOR,dark r&b|r&b|trap soul,87,Drake,True,$ome $exy $ongs 4 U,album,2025-02-14,2kZoOj1n5vk9BuF0sih58M,2HPaUgqeutzr3jx5a9WyDV
+55,What It Sounds Like,95,250268,HUNTR/X,k-pop,89,EJAE|AUDREY NUNA|REI AMI|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,5sBDrrtLGbV64QJnEqfjer,2yNNYQBChuox9A5Ka93BIn
+56,Amen,77,197403,Shaboozey,,82,Jelly Roll,False,"Where I've Been, Isn't Where I'm Going: The Complete Edition",album,2025-04-25,2iSfSJrho5XkU2NmAnZ9ZV,3y2cIKLjiOlp1Np37WiUdH
+57,Azizam,93,162029,Ed Sheeran,soft pop,92,,False,Azizam,single,2025-04-04,0GRc3eGTg8HBdWLRGYgqIc,6eUKZXaKkcviH0Ku9w2n3V
+58,Free,95,187963,Rumi,,77,Jinu|EJAE|Andrew Choi|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,5DxDLsW6PsLz5gkwC7Mk5S,2DSE0PhxKUmTPLfZm13sup
+59,TN,70,185138,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,5wrvpATTwLAdxI9xNtezNM,4oUHIQIBe0LHzYfvXNW4QM
+60,On My Mind,86,189557,Alex Warren,,90,ROSÉ,False,On My Mind,single,2025-06-27,1tMRh8jiYlmatpVeWWesCe,0fTSzq9jAh4c36UVb4V7CB
+61,Indigo (feat. Avery Anna),87,286634,Sam Barber,country,78,Avery Anna,False,Restless Mind,album,2024-11-01,1KZG1H1OCugGqIRmk1wF9m,08GfvCW09pv2QP4y9sle2a
+62,WHIM WHAMIEE,76,141538,PLUTO,,66,YKNIECE,True,WHIM WHAMIEE,single,2025-02-03,4eULTkHVLAhn5J5DOSNbdP,4uqHgaeBynLBQgfhMEIm1G
+63,Dark Thoughts,87,136991,Lil Tecca,melodic rap|rap,86,,True,Dark Thoughts,single,2025-03-14,7EW7Yivb93qKAtp5qEm5of,4Ga1P7PMIsmqEZqhYZQgDo
+64,Takedown,94,182016,HUNTR/X,k-pop,89,EJAE|AUDREY NUNA|REI AMI|KPop Demon Hunters Cast,False,KPop Demon Hunters (Soundtrack from the Netflix Film),album,2025-06-20,0MHStU0muAIEMbwdnebYu2,2yNNYQBChuox9A5Ka93BIn
+65,Hard Fought Hallelujah (with Jelly Roll),72,316002,Brandon Lake,worship|christian,77,Jelly Roll,False,Hard Fought Hallelujah (with Jelly Roll),single,2025-02-07,4cLC8gydI0O78g8chZugS4,1bdnGJxkbIIys5Jhk1T74v
+66,House Again,83,203822,Hudson Westbrook,country,74,,False,House Again,single,2024-10-18,16MeIVoFWTq2E0r6DwIek5,0C4gtx1iHMfuaQ73GKWvtZ
+67,Fix What You Didn't Break,70,201555,Nate Smith,country,73,,False,Fix What You Didn't Break,single,2024-08-23,0GJ8peTqHq9pu5Yf2vHjjX,4NYMUsIcUUsBHbV9DICa5x
+68,party 4 u,92,296653,Charli xcx,hyperpop|art pop,88,,False,how i'm feeling now,album,2020-05-15,2RdEC8Ff83WkX7kDVCHseE,25uiPmTg16RbhZWAqwLBy5
+69,YOUR WAY'S BETTER,76,198082,Forrest Frank,christian pop|christian hip hop|christian|worship|gospel r&b,80,,False,YOUR WAY'S BETTER,single,2024-10-25,4qrbjoNP9NZwe79Rg9IlFU,1scVfBymTr3CeZ4imMj1QJ
+70,Typa,75,124137,GloRilla,,83,,True,Typa,single,2025-06-06,08L2vgqPpiLt7PpwMHbbk1,2qoQgPAilErOKCwE2Y8wOG
+71,TU SANCHO,93,177994,Fuerza Regida,corrido|corridos tumbados|corridos bélicos|música mexicana|sierreño|banda|electro corridos|sad sierreño|dembow belico,94,,True,111XPANTIA,album,2025-05-02,6eLQXa6uk2EW8drsiKbABZ,0ys2OFYzWYB5hRDLCsBqxt
+72,I'm A Little Crazy,74,199060,Morgan Wallen,country,95,,False,I'm A Little Crazy,single,2025-03-21,7igCS2ZsfV7bvxuhF4XgiQ,4oUHIQIBe0LHzYfvXNW4QM
+73,RATHER LIE (with The Weeknd),85,209680,Playboi Carti,rage rap,90,The Weeknd,True,MUSIC,album,2025-03-14,68qeaZhtMZ6abrJCYt6nQn,699OTQXzgjhIYAHMy9RyPD
+74,Bottle Rockets (feat. Hootie & The Blowfish),73,235773,Scotty McCreery,country|acoustic country,66,Hootie & The Blowfish,False,Bottle Rockets (feat. Hootie & The Blowfish),single,2025-05-15,5Xl87hTgoBbSnEXKNse77Q,6ZV6lGY0prbqpTD0Md8i29
+75,Marlboro Rojo,92,184173,Fuerza Regida,corrido|corridos tumbados|corridos bélicos|música mexicana|sierreño|banda|electro corridos|sad sierreño|dembow belico,94,,True,111XPANTIA,album,2025-05-02,3hpm0fTeSqlhJbnqAgaLZs,0ys2OFYzWYB5hRDLCsBqxt
+76,Bloodline (with Jelly Roll),91,182008,Alex Warren,,90,Jelly Roll,False,Bloodline (with Jelly Roll),single,2025-05-22,0qmhTHMVxnXRmT5N92wTD9,0fTSzq9jAh4c36UVb4V7CB
+77,Home (feat. Shaboozey),78,135133,BigXthaPlug,southern hip hop,84,Shaboozey,True,Home (feat. Shaboozey),single,2025-06-27,7LaLY7dkzWEtmtJ8o7oD05,6qxpnaukVayrQn6ViNvu9I
+78,peekaboo (feat. azchike),83,155917,Kendrick Lamar,hip hop|west coast hip hop,94,AZ Chike,True,GNX,album,2024-11-22,2Uts1QFB4u2YNIMiqcb4de,2YZyLoL8N0Wb9xBt1NhZWg
+79,Dark Til Daylight,67,235566,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,0DlaIUTa0Ng1hOM1wcFcZe,4oUHIQIBe0LHzYfvXNW4QM
+80,LATINA FOREVA,85,159522,KAROL G,reggaeton|latin|urbano latino,94,,True,Tropicoqueta,album,2025-06-20,2KrQbq3aqGOFGnkTKnN2XA,790FomKkXshlbRYZFtlgla
+81,Folded,87,238120,Kehlani,,80,,False,Folded,single,2025-06-11,0bxPRWprUVpQK0UFcddkrA,0cGUm45nv7Z6M6qdXYQGTX
+82,FWU,85,171000,Don Toliver,,89,Mustard,True,FWU,single,2025-06-27,1NpHJ96ljWvqdbjlyc9GtT,4Gso3d4CscCijv0lmajZWs
+83,twilight zone,78,198320,Ariana Grande,pop,93,,False,eternal sunshine deluxe: brighter days ahead,album,2025-03-28,1UrwJzlNC2oaTlxj1OZmcu,66CXWjxzNUsdJxJ2JdwvnR
+84,OWA OWA,83,132380,Lil Tecca,melodic rap|rap,86,,True,OWA OWA,single,2025-05-30,5E3XPRJVgYnxhMAFI7nZ7N,4Ga1P7PMIsmqEZqhYZQgDo
+85,What Was That,83,209286,Lorde,,86,,False,Virgin,album,2025-06-27,7hGCCQkdyF1MX6uk339uBS,163tK9Wjr9P9DmM0AVK7lm
+86,Single Again,64,179050,Josh Ross,country,68,,False,Single Again,single,2024-01-12,2fKAG7MnnFDrQERDAzSztc,1ZGTSMjK1D2HrpPTOh916U
+87,Gabriela,93,197226,KATSEYE,k-pop,85,,False,Gabriela,single,2025-06-20,1xOqGUkyxGQRdCvGpvWKmL,3c0gDdb9lhnHGFtP4prQpn
+88,EoO,93,204768,Bad Bunny,reggaeton|trap latino|urbano latino|latin,100,,True,DeBÍ TiRAR MáS FOToS,album,2025-01-05,6J5kc12BW5HuP3d7C3vvx8,4q3ewBCX7sLwd24euuV69X
+89,WENT WEST,78,156083,BabyChiefDoit,chicago drill,71,,True,WENT WEST,single,2025-06-27,4QBxmb7GTU73cz9asr88Hj,1J1pGfTqp5ReVIX8Z1Wzsg
+90,Nice To Meet You,82,176000,Myles Smith,,80,,False,A Minute...,single,2024-11-08,726SEjbF3ToEbYbn43gnxl,3bO19AOone0ubCsfDXDtYt
+91,Bodies (with JID),74,178708,Offset,,80,JID,True,Bodies (with JID),single,2025-06-20,2PcZiMr9bRNtRikrN7s6bL,4DdkRBBYG6Yk9Ka8tdJ9BW
+92,This Heart,64,186973,Corey Kent,country|texas country,66,,False,This Heart,single,2024-01-26,1KtQmheytoTI6kOM8yCowf,3sUpZrkehiGBaMzs2h9Mmc
+93,Thought It Was Love,82,246141,Ty Myers,country,73,,False,The Select,album,2025-01-24,4fVoX6BG2jFhPx6uHKevpF,1Gh0pCAxpjw0Iq3JMoVAwO
+94,Touch Me Like a Gangster,82,163930,Jessie Murph,,82,,True,Touch Me Like a Gangster,single,2025-06-06,6fYcQVXEuqmyS3HqSZ6rTd,2yLzlEFtIS0Q9UkyBZdQA7
+95,Went Legit,75,140487,G Herbo,chicago drill|drill,73,,True,Greatest Rapper Alive,album,2025-04-09,4IlbjcbLvNQEzmCI2eXVLP,5QdEbQJ3ylBnc3gsIASAT5
+96,Gnarly,91,137316,KATSEYE,k-pop,85,,True,Gnarly,single,2025-04-30,1j15Ar0qGDzIR0v3CQv3JL,3c0gDdb9lhnHGFtP4prQpn
+97,ME JALO,90,212002,Fuerza Regida,corrido|corridos tumbados|corridos bélicos|música mexicana|sierreño|banda|electro corridos|sad sierreño|dembow belico,94,Grupo Frontera,True,MALA MÍA,single,2024-12-19,3D24ErT1MMmUfXWotSj2A2,0ys2OFYzWYB5hRDLCsBqxt
+98,Better Me For You (Brown Eyes),84,194120,Max McNown,,76,,False,Night Diving,album,2025-01-24,4Iu73sdCNxZXZUIyClMoPZ,340PS4ZcZ4UCBgyrXzEjcp
+99,Bar None,77,173064,Jordan Davis,country,76,,False,Bar None,single,2025-03-28,212xtcXoSqbbwFAYd0zvNP,77kULmXAQ6vWer7IIHdGzI
+100,Eyes Are Closed,57,197188,Morgan Wallen,country,95,,False,I’m The Problem,album,2025-05-16,6Yjm10YPDiYGD3R3Qwoe13,4oUHIQIBe0LHzYfvXNW4QM
